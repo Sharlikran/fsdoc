@@ -3,7 +3,7 @@
 Power Plant
 ===========
 
-![Power Plant](t3powerplant.jpg)
+![Power Plant](t3images/t3powerplant.jpg)
 
 ## Triple Wide Room
 

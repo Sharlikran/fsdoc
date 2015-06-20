@@ -3,7 +3,7 @@
 Super Reactor
 ===========
 
-![Power Plant](t3superreactor.jpg)
+![Power Plant](t3images/t3superreactor.jpg)
 
 ## Triple Wide Room
 
