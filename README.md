@@ -7,6 +7,7 @@ Vault Rooms and their statistics.
 * [Classroom](Rooms/Classroom.md)
 * [Fitness Room](Rooms/FitnessRoom.md)
 * [Game Room](Rooms/GameRoom.md)
+* [Living Quarters](Rooms/LivingQuarters.md)
 * [Lounge](Rooms/Lounge.md)
 * [Power Plant](Rooms/PowerPlant.md)
 * [Super Reactor](Rooms/SuperReactor.md)
