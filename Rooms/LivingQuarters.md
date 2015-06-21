@@ -3,7 +3,7 @@
 Living Quarters
 ===========
 
-![Living Quarters](t1images/t1doublelivingquarters.jpg)
+![Living Quarters](t1images/t1tripplelivingquarters.jpg)
 
 [1] Cost is, (Number of Living Spaces X 10) +10
 
@@ -26,6 +26,8 @@ Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 3 | xxx | xxx | xxx | 26 | xxx
 
 ## Single Wide Room
+
+![Living Quarters](t1images/t1singlelivingquarters.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 ------|------|------|------|------|------|------
