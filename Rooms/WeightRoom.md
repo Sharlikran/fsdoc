@@ -3,13 +3,13 @@
 Weight Room
 ===========
 
-![Power Plant](t1images/t1weightroom.jpg)
-
 ## Triple Wide Room
 
 ## Double Wide Room
 
 ## Single Wide Room
+
+![Power Plant](t1images/t1weightroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
