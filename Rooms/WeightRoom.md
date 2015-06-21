@@ -9,7 +9,7 @@ Weight Room
 
 ## Single Wide Room
 
-![Power Plant](t1images/t1weightroom.jpg)
+![Power Plant](t1images/t1singleweightroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
