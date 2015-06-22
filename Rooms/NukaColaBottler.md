@@ -23,7 +23,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Single Wide Room
 
-Plus 300 each additional room
+Plus 750 each additional room
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
