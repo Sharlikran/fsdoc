@@ -1,6 +1,6 @@
 [Return](../README.md)
 
-Power Plant
+Power Generator
 ===========
 
 ![Power Plant](t3images/t3tripplepowerplant.jpg)

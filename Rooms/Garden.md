@@ -10,8 +10,8 @@ Garden
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Garden | xxx | xxx | 33 | 150 | xxx
-2 | xxx | xxx | xxx | 41 | 225 | xxx
-3 | xxx | xxx | xxx | xxx | xxx | xxx
+2 | Greenhouse | xxx | xxx | 41 | 225 | xxx
+3 | Hydroponics | xxx | xxx | xxx | xxx | xxx
 
 ## Double Wide Room
 
@@ -20,8 +20,8 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Garden | xxx | xxx | 22 | 100 | xxx
-2 | xxx | xxx | xxx | 27 | 150 | xxx
-3 | xxx | xxx | xxx | xxx | xxx | xxx
+2 | Greenhouse | xxx | xxx | 27 | 150 | xxx
+3 | Hydroponics | xxx | xxx | xxx | xxx | xxx
 
 ## Single Wide Room
 
@@ -32,5 +32,5 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Garden | 1200 | xxx | 10 | 50 | 240
-2 | xxx | xxx | xxx | 12 | 75 | xxx
-3 | xxx | xxx | xxx | xxx | xxx | xxx
+2 | Greenhouse | xxx | xxx | 12 | 75 | xxx
+3 | Hydroponics | xxx | xxx | xxx | xxx | xxx

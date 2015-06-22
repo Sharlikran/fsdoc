@@ -15,7 +15,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Weight Room | 600 | 1500 | 120
 2 | Gym | xxx | 4500 | 300
-3 | xxx | xxx | xxx | xxx
+3 | Strength Center | xxx | xxx | xxx
 
 ### Teir 2 Training Times
 

@@ -14,8 +14,8 @@ Lounge
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Lounge | 600 | xxx | xxx
-2 | xxx | xxx | xxx | xxx
-3 | xxx | xxx | xxx | xxx
+2 | Bar | xxx | xxx | xxx
+3 | Club | xxx | xxx | xxx
 
 ### Teir 2 Training Times
 

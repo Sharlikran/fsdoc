@@ -14,8 +14,8 @@ Classroom
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Classroom | 600 | xxx | xxx
-2 | xxx | xxx | xxx | xxx
-3 | xxx | xxx | xxx | xxx
+2 | School | xxx | xxx | xxx
+3 | Academy | xxx | xxx | xxx
 
 ### Teir 2 Training Times
 
