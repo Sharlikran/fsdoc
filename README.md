@@ -13,16 +13,13 @@ Vault Rooms and their statistics.
 * [Living Quarters](Rooms/LivingQuarters.md)
 * [Lounge](Rooms/Lounge.md)
 * [Medbay](Rooms/Medbay.md)
+* [Nuclear Reactor](Rooms/NuclearReactor.md)
 * [Nuka-Cola Bottler](Rooms/NukaColaBottler.md)
 * [Power Generator](Rooms/PowerGenerator.md)
 * [Radio Studio](Rooms/RadioStation.md)
 * [Science Lab](Rooms/ScienceLab.md)
 * [Storage Room](Rooms/StorageRoom.md)
-* [Super Reactor](Rooms/NuclearReactor.md)
+* [Vault Door](Rooms/VaultDoor.md)
 * [Water Purification](Rooms/WaterPurification.md)
 * [Water Treatment](Rooms/WaterTreatment.md)
 * [Weight Room](Rooms/WeightRoom.md)
-* [Vault Door](Rooms/VaultDoor.md)
-
-
-
