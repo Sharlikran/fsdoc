@@ -22,7 +22,7 @@ Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 ------|------|------|------|------|------|------
 1 | Living Quarters | xxx | xxx | 18 | xxx
-2 | xxx | xxx | xxx | 22 | xxx
+2 | xxx | xxx | 1125 | 22 | 75
 3 | xxx | xxx | xxx | 26 | xxx
 
 ## Single Wide Room

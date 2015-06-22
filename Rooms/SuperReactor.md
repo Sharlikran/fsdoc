@@ -1,15 +1,15 @@
 [Return](../README.md)
 
-Super Reactor
+Nuclear Reactor
 ===========
 
-![Power Plant](t3images/t3superreactor.jpg)
+![Nuclear Reactor](t3images/t3tripplesuperreactor.jpg)
 
 ## Triple Wide Room
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | xxx | xxx | xxx | xxx | xxx | xxx
+1 | Nuclear Reactor | xxx | xxx | xxx | xxx | xxx
 2 | xxx | xxx | xxx | xxx | xxx | xxx
 3 | Super Reactor | xxx | xxx | 59 | 1200 | 3600
 
