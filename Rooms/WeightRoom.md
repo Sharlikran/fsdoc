@@ -17,7 +17,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 2 | Gym | xxx | 4500 | 300
 3 | xxx | xxx | xxx | xxx
 
-### Teir 1 Training Times
+### Teir 2 Training Times
 
 Skill Value | Training Time
 ------|------

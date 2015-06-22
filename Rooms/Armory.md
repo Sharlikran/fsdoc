@@ -17,6 +17,15 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 2 | xxx | xxx | xxx | xxx
 3 | xxx | xxx | xxx | xxx
 
+### Teir 2 Training Times
+
+Skill Value | Training Time
+------|------
+1 | 24m
+2 | 1h 16m
+
+### Teir 1 Training Times
+
 Skill Value | Training Time
 ------|------
 1 | 26m
