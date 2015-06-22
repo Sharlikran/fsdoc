@@ -5,6 +5,8 @@ Radio Studio
 
 ## Triple Wide Room
 
+![Radio Station](t3images/t3trippleradiostation.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Radio Studio | xxx | 3000 | xxx
@@ -20,8 +22,6 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 3 | Radio Station | xxx | xxx | xxx
 
 ## Single Wide Room
-
-![Radio Station](t1images/t1singleradiostation.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
