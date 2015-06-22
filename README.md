@@ -6,6 +6,7 @@ Vault Rooms and their statistics.
 * [Athletics Room](Rooms/AthleticsRoom.md)
 * [Classroom](Rooms/Classroom.md)
 * [Diner](Rooms/Diner.md)
+* [Elevator](Rooms/Elevator.md)
 * [Fitness Room](Rooms/FitnessRoom.md)
 * [Game Room](Rooms/GameRoom.md)
 * [Garden](Rooms/Garden.md)
@@ -21,5 +22,7 @@ Vault Rooms and their statistics.
 * [Water Purification](Rooms/WaterPurification.md)
 * [Water Treatment](Rooms/WaterTreatment.md)
 * [Weight Room](Rooms/WeightRoom.md)
+* [Vault Door](Rooms/VaultDoor.md)
+
 
 
