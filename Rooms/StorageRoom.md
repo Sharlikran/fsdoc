@@ -15,6 +15,8 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 
 ## Double Wide Room
 
+![Storage Room](t3images/doubledepot.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
 1 | Storage Room | xxx | xxx | 20 | xxx
