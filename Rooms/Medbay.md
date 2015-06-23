@@ -5,6 +5,8 @@ Medbay
 
 ## Triple Wide Room
 
+![Medbay](t2images/trippleclinic.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Medbay | xxx | 2000 | 4 | 30 | xxx
