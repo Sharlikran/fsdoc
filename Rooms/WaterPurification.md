@@ -5,6 +5,8 @@ Water Purification
 
 ## Triple Wide Room
 
+![Garden](t1images/tripplewaterpurification.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Water Purification | xxx | xxx | xxx | xxx | xxx
