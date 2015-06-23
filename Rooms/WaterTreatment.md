@@ -5,6 +5,8 @@ Water Treatment
 
 ## Triple Wide Room
 
+![Water Treatment](t3images/tripplewatertreatmentplant.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Water Treatment | xxx | 500 | 28 | 150 | xxx
