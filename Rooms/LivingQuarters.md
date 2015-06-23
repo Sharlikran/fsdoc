@@ -9,8 +9,8 @@ Living Quarters
 
 Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 ------|------|------|------|------|------|------
-1 | Living Quarters | xxx | xxx | 28 | xxx
-2 | Residence | xxx | xxx | 34 | xxx
+1 | Living Quarters | xxx | 500 | 28 | 60
+2 | Residence | xxx | 1500 | 34 | 100
 3 | Barracks | xxx | xxx | 40 | xxx
 
 ## Double Wide Room
@@ -19,9 +19,9 @@ Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 
 Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 ------|------|------|------|------|------|------
-1 | Living Quarters | xxx | xxx | 18 | xxx
+1 | Living Quarters | xxx | 375 | 18 | 40
 2 | Residence | xxx | 1125 | 22 | 75
-3 | Barracks | xxx | xxx | 26 | xxx
+3 | Barracks | xxx | xxx | 26 | 225
 
 ## Single Wide Room
 

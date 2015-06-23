@@ -20,7 +20,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Water Treatment | xxx | 375 | 18 | 100 | xxx
-2 | Water Treatment Station | xxx | 1125 | 22 | 150 | xxx
+2 | Water Treatment Station | xxx | 1125 | 22 | 150 | 75
 3 | Water Treatment Plant | xxx | xxx | 26 | 200 | xxx
 
 ## Single Wide Room

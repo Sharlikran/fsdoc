@@ -9,7 +9,7 @@ Garden
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Garden | xxx | xxx | 33 | 150 | xxx
+1 | Garden | xxx | 6000 | 33 | 150 | 720
 2 | Greenhouse | xxx | xxx | 41 | 225 | xxx
 3 | Hydroponics | xxx | xxx | xxx | xxx | xxx
 
@@ -19,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Garden | xxx | xxx | 22 | 100 | xxx
+1 | Garden | xxx | 4500 | 22 | 100 | 480
 2 | Greenhouse | xxx | xxx | 27 | 150 | xxx
 3 | Hydroponics | xxx | xxx | xxx | xxx | xxx
 
@@ -31,6 +31,6 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Garden | 1200 | xxx | 10 | 50 | 240
+1 | Garden | 1200 | 3000 | 10 | 50 | 240
 2 | Greenhouse | xxx | xxx | 12 | 75 | xxx
 3 | Hydroponics | xxx | xxx | xxx | xxx | xxx

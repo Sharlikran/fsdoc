@@ -19,9 +19,9 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Power Generator | | 375 | 18 | 100 | 40
-2 | Power Station | | 1125 | 22 | 150 | 75
-3 | Power Plant | | | 26 | 200 | 225
+1 | Power Generator | | 375 | 22 | 100 | 40
+2 | Power Station | | 1125 | 26 | 150 | 75
+3 | Power Plant | | | 33 | 200 | 225
 
 ## Single Wide Room
 

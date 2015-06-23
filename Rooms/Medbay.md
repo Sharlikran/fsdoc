@@ -18,7 +18,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Medbay | xxx | 1500 | 3 | 20 | xxx
-2 | Clinic | xxx | 4500 | 6 | 20 | xxx
+2 | Clinic | xxx | 4500 | 6 | 20 | 300
 3 | Hospital | xxx | xxx | 9 | 20 | xxx
 
 ## Single Wide Room
