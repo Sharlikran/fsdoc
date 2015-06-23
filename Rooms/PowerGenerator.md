@@ -15,6 +15,8 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Double Wide Room
 
+![Power Plant](t1images/doublepowergenerator.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Power Generator | | 375 | 22 | 100 | 40
