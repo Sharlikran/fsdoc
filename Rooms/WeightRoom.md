@@ -23,6 +23,7 @@ Skill Value | Training Time
 ------|------
 1 | 24m
 2 | 1h 16m
+3 | 2h 32m
 
 ### Teir 1 Training Times
 
