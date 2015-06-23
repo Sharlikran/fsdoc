@@ -13,12 +13,22 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Double Wide Room
 
+![Garden](t1images/doublewaterpurification.jpg)
+
+Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
+------|------|------|------|------|------|------
+1 | Water Purification | xxx | 4500 | 22 | 100 | 480
+2 | Purification Station | xxx | xxx | 27 | 150 | xxx
+3 | Purification Plant | xxx | xxx | xxx | xxx | xxx
+
 ## Single Wide Room
+
+![Garden](t1images/singlewaterpurification.jpg)
 
 Plus 300 each additional room
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Water Purification | 1200 | xxx | xxx | xxx | xxx
-2 | Purification Station | xxx | xxx | xxx | xxx | xxx
+1 | Water Purification | 1200 | 3000 | 10 | 50 | 240
+2 | Purification Station | xxx | xxx | 12 | 75 | xxx
 3 | Purification Plant | xxx | xxx | xxx | xxx | xxx
