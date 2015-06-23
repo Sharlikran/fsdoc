@@ -29,6 +29,6 @@ Plus 25 Caps for each additional
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Water Treatment | 100 | 250 | 8 | 50 | xxx
-2 | Water Treatment Station | xxx | 750 | 10 | 75 | xxx
+1 | Water Treatment | 100 | 250 | 8 | 50 | 20
+2 | Water Treatment Station | xxx | 750 | 10 | 75 | 50
 3 | Water Treatment Plant | xxx | xxx | 12 | 100 | xxx
