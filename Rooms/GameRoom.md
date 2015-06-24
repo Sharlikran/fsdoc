@@ -5,15 +5,23 @@ Game Room
 
 ## Triple Wide Room
 
-## Double Wide Room
-
-![Game Room](t1images/t1doublegameroom.jpg)
+![Game Room](t2images/tripplearcade.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
-1 | Game Room | | xxx | xxx
-2 | Arcade | | 6750 | xxx
+1 | Game Room | | 3000 | 360
+2 | Arcade | | 9000 | 600
 3 | Gaming Center | | xxx | xxx
+
+## Double Wide Room
+
+![Game Room](t3images/doublegamingcenter.jpg)
+
+Tier | Name | Cost | Upgrade Cost | Destruction Value
+------|------|------|------|------|------
+1 | Game Room | | 2250 | 240
+2 | Arcade | | 6750 | xxx
+3 | Gaming Center | | | 1350
 
 ## Single Wide Room
 
@@ -29,6 +37,7 @@ Skill Value | Training Time
 ------|------
 1 | 23m
 2 | 1h 12m
+3 | 2h 16m
 4 | 4h 3m
 5 | 5h 58m
 
