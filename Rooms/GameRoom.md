@@ -11,17 +11,23 @@ Game Room
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
-1 | Game Room | xxx | xxx | xxx
-2 | Arcade | xxx | xxx | xxx
-3 | Gaming Center | xxx | xxx | xxx
+1 | Game Room | | xxx | xxx
+2 | Arcade | | 6750 | xxx
+3 | Gaming Center | | xxx | xxx
 
 ## Single Wide Room
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Game Room | 600 | 1500 | 120
-2 | Arcade | xxx | 4500 | 300
-3 | Gaming Center | xxx | xxx | xxx
+2 | Arcade | | 4500 | 300
+3 | Gaming Center | | | 900
+
+### Teir 3 Training Times
+
+Skill Value | Training Time
+------|------
+4 | 4h 3m
 
 ### Teir 2 Training Times
 

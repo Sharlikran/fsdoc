@@ -14,8 +14,14 @@ Weight Room
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Weight Room | 600 | 1500 | 120
-2 | Gym | xxx | 4500 | 300
-3 | Strength Center | xxx | xxx | xxx
+2 | Gym | | 4500 | 300
+3 | Strength Center | | | 900
+
+### Teir 3 Training Times
+
+Skill Value | Training Time
+------|------
+4 | 4h 3m
 
 ### Teir 2 Training Times
 

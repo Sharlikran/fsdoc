@@ -13,9 +13,15 @@ Fitness Room
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
-1 | Fitness Room | 600 | xxx | xxx
-2 | Fitness Studio | xxx | xxx | xxx
-3 | Fitness Center | xxx | xxx | xxx
+1 | Fitness Room | 600 | 1500 | 120
+2 | Fitness Studio | | 4500 | 300
+3 | Fitness Center | | | 900
+
+### Teir 3 Training Times
+
+Skill Value | Training Time
+------|------
+4 | 4h 3m
 
 ### Teir 2 Training Times
 
