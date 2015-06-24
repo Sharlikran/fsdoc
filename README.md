@@ -16,7 +16,7 @@ Vault Rooms and their statistics.
 * [Nuclear Reactor](Rooms/NuclearReactor.md)
 * [Nuka-Cola Bottler](Rooms/NukaColaBottler.md)
 * [Power Generator](Rooms/PowerGenerator.md)
-* [Radio Studio](Rooms/RadioStation.md)
+* [Radio Studio](Rooms/RadioStudio.md)
 * [Science Lab](Rooms/ScienceLab.md)
 * [Storage Room](Rooms/StorageRoom.md)
 * [Vault Door](Rooms/VaultDoor.md)
