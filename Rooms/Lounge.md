@@ -21,22 +21,26 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 Skill Value | Training Time
 ------|------
+1 | 23m
+2 | 1h 12m
 4 | 4h 3m
+5 | 5h 58m
 
 ### Teir 2 Training Times
 
 Skill Value | Training Time
 ------|------
 1 | 24m
-2 | 1h 16m
+2 | 1h 15m
 3 | 2h 32m
+4 | 4h 10m
 
 ### Teir 1 Training Times
 
 Skill Value | Training Time
 ------|------
 1 | 26m
-2 | 1h 20m
-3 | 2h 38m
-4 | 4h 25m
+2 | 1h 18m
+3 | 2h 37m
+4 | 4h 22m
 5 | 6h 40m
