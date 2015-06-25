@@ -5,6 +5,8 @@ Athletics Room
 
 ## Triple Wide Room
 
+![Athletics Room](t1images/tripleathleticsroom.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Athletics Room | | 3000 | 360
@@ -12,6 +14,8 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 3 | Athletics Center | | | xxx
 
 ## Double Wide Room
+
+![Athletics Room](t1images/doubleathleticsroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -21,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Athletics Room](t1images/t1singleathleticsroom.jpg)
+![Athletics Studio](t2images/singleathleticsstudio.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
