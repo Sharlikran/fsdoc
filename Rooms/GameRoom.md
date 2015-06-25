@@ -5,7 +5,7 @@ Game Room
 
 ## Triple Wide Room
 
-![Game Room](t2images/tripplearcade.jpg)
+![Arcade](t2images/triplearcade.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -15,7 +15,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Double Wide Room
 
-![Game Room](t3images/doublegamingcenter.jpg)
+![Gaming Center](t3images/doublegamingcenter.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

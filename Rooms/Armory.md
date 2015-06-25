@@ -5,7 +5,7 @@ Armory
 
 ## Triple Wide Room
 
-![Armory](t1images/tripplearmory.jpg)
+![Armory](t1images/triplearmory.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

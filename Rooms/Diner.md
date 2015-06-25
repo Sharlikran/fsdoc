@@ -5,7 +5,7 @@ Diner
 
 ## Triple Wide Room
 
-![Cafeteria](t3images/tripplecafeteria.jpg)
+![Cafeteria](t3images/triplecafeteria.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------

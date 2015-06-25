@@ -5,6 +5,8 @@ Lounge
 
 ## Triple Wide Room
 
+![Lounge](t1images/triplelounge.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Lounge | | 3000 | 360
@@ -12,6 +14,8 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 3 | Club | | | xxx
 
 ## Double Wide Room
+
+![Lounge](t1images/doublelounge.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -21,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Lounge](t1images/t1singlelounge.jpg)
+![Lounge](t1images/singlelounge.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

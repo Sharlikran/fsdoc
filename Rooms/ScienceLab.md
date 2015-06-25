@@ -5,7 +5,7 @@ Science Lab
 
 ## Triple Wide Room
 
-![Science Center](t3images/tripplesciencecenter.jpg)
+![Science Center](t3images/triplesciencecenter.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------

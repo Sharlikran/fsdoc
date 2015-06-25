@@ -5,7 +5,7 @@ Radio Studio
 
 ## Triple Wide Room
 
-![Radio Station](t2images/trippleradiostation.jpg)
+![Radio Station](t2images/tripleradiostation.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

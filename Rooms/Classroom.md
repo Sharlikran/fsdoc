@@ -5,7 +5,7 @@ Classroom
 
 ## Triple Wide Room
 
-![Classroom](t1images/trippleclassroom.jpg)
+![Classroom](t1images/tripleclassroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
