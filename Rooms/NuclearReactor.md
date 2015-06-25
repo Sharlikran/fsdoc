@@ -18,7 +18,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Nuclear Reactor | | 4500 | 26 | 400 | xxx
-2 | Advanced Reactor | | 31 | 600 | xxx | xxx
+2 | Advanced Reactor | | xxx | 31 | 600 | xxx
 3 | Super Reactor | | | xxx | xxx | xxx
 
 ## Single Wide Room
