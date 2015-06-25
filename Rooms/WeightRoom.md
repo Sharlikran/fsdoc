@@ -25,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Strength Center](t1images/singlestrengthcenter.jpg)
+![Strength Center](t3images/singlestrengthcenter.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
