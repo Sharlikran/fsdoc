@@ -5,6 +5,8 @@ Weight Room
 
 ## Triple Wide Room
 
+![Weight Room](t1images/singlestrengthcenter)
+
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Weight Room | | 3000 | 360
@@ -12,6 +14,8 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 3 | Strength Center | | | xxx
 
 ## Double Wide Room
+
+![Weight Room](t1images/singlestrengthcenter)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -21,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Power Plant](t1images/t1singleweightroom.jpg)
+![Strength Center](t1images/singlestrengthcenter)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
