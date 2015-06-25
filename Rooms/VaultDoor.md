@@ -3,7 +3,7 @@
 Vault Door
 ===========
 
-![Garden](t3images/t3doublevaultdoor.jpg)
+![Vault Door](t1images/doublevaultdoor.jpg)
 
 Tier | Name | Upgrade Cost
 ------|------|------
