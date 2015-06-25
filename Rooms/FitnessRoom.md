@@ -61,3 +61,4 @@ Skill Value | Training Time
 3 | 2h 37m
 4 | 4h 22m
 5 | 6h 40m
+6 | 8h 31m
