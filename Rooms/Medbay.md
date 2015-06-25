@@ -9,9 +9,9 @@ Medbay
 
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Medbay | xxx | 2000 | 4 | 30 | xxx
-2 | Clinic | xxx | 6000 | 8 | 30 | xxx
-3 | Hospital | xxx | xxx | 12 | 30 | xxx
+1 | Medbay | | 2000 | 4 | 30 | xxx
+2 | Clinic | | 6000 | 8 | 30 | 400
+3 | Hospital | | | 12 | 30 | xxx
 
 ## Double Wide Room
 
@@ -19,9 +19,9 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Medbay | xxx | 1500 | 3 | 20 | xxx
-2 | Clinic | xxx | 4500 | 6 | 20 | 300
-3 | Hospital | xxx | xxx | 9 | 20 | xxx
+1 | Medbay | | 1500 | 3 | 20 | xxx
+2 | Clinic | | 4500 | 6 | 20 | xxx
+3 | Hospital | | | 9 | 20 | xxx
 
 ## Single Wide Room
 
@@ -32,5 +32,5 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Medbay | 400 | 1000 | 1 | 10 | 80
-2 | Clinic | xxx | 3000 | 2 | 10 | 200
-3 | Hospital | xxx | xxx | 3 | 10 | xxx
+2 | Clinic | | 3000 | 2 | 10 | 200
+3 | Hospital | | | 3 | 10 | xxx
