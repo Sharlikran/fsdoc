@@ -5,6 +5,8 @@ Fitness Room
 
 ## Triple Wide Room
 
+![Fitness Room](t1images/triplefitnessroom.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Fitness Room | | 3000 | 360
@@ -12,6 +14,8 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 3 | Fitness Center | | | xxx
 
 ## Double Wide Room
+
+![Fitness Room](t1images/doublefitnessroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -21,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Athletics Room](t1images/t1singlefitnessroom.jpg)
+![Fitness Room](t1images/singlefitnessroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
