@@ -5,7 +5,7 @@ Garden
 
 ## Triple Wide Room
 
-![Garden](t2images/t2tripplegarden.jpg)
+![Garden](t3images/triplehydroponics.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
