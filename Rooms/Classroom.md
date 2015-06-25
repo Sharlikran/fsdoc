@@ -5,6 +5,8 @@ Classroom
 
 ## Triple Wide Room
 
+![Classroom](t1images/trippleclassroom.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Classroom | | 3000 | 360
@@ -12,6 +14,8 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 3 | Academy | | xxx | xxx
 
 ## Double Wide Room
+
+![Classroom](t1images/doubleclassroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -21,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Classroom](t1images/t1singleclassroom.jpg)
+![Classroom](t1images/singleclassroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
