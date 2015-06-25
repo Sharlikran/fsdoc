@@ -19,9 +19,9 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 
 Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
-1 | Storage Room | xxx | xxx | 20 | xxx
-2 | Depot | xxx | xxx | xxx | 30
-3 | Warehouse | xxx | xxx | xxx | xxx
+1 | Storage Room | | xxx | 20 | xxx
+2 | Depot | | 3375 | 30 | 225
+3 | Warehouse | |  | 40 | xxx
 
 ## Single Wide Room
 

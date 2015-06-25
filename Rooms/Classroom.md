@@ -5,7 +5,19 @@ Classroom
 
 ## Triple Wide Room
 
+Tier | Name | Cost | Upgrade Cost | Destruction Value
+------|------|------|------|------|------
+1 | Classroom | | 3000 | 360
+2 | School | | 9000 | 600
+3 | Academy | | xxx | xxx
+
 ## Double Wide Room
+
+Tier | Name | Cost | Upgrade Cost | Destruction Value
+------|------|------|------|------|------
+1 | Classroom | | 2250 | 240
+2 | School | | 6750 | xxx
+3 | Academy | | | 1350
 
 ## Single Wide Room
 
@@ -23,6 +35,7 @@ Skill Value | Training Time
 ------|------
 1 | 23m
 2 | 1h 12m
+3 | 2h 16m
 4 | 4h 3m
 5 | 5h 58m
 
