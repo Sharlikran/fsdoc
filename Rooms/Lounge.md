@@ -9,7 +9,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Lounge | | 3000 | 360
 2 | Bar | | 9000 | 600
-3 | Club | | xxx | xxx
+3 | Club | | | xxx
 
 ## Double Wide Room
 

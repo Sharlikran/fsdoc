@@ -9,7 +9,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Fitness Room | | 3000 | 360
 2 | Fitness Studio | | 9000 | 600
-3 | Fitness Center | | xxx | xxx
+3 | Fitness Center | | | xxx
 
 ## Double Wide Room
 

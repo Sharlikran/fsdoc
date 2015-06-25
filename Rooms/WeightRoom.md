@@ -9,7 +9,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Weight Room | | 3000 | 360
 2 | Gym | | 9000 | 600
-3 | Strength Center | | xxx | xxx
+3 | Strength Center | | | xxx
 
 ## Double Wide Room
 

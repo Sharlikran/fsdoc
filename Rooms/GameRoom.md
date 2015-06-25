@@ -11,7 +11,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Game Room | | 3000 | 360
 2 | Arcade | | 9000 | 600
-3 | Gaming Center | | xxx | xxx
+3 | Gaming Center | | | xxx
 
 ## Double Wide Room
 
