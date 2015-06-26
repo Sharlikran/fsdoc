@@ -35,6 +35,9 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ### Training Times
 
+- Low happiness increases training times slightly.
+- Having multiple Dwellers training in the same room decreases training times slightly.
+
 Skill Value | Classroom | School | Academy
 ------|------|------|------
 1 | 26m | 24m | 23m
@@ -43,6 +46,6 @@ Skill Value | Classroom | School | Academy
 4 | 4h 22m | 4h 10m | 4h 3m
 5 | 6h 40m | | 5h 58m
 6 | 8h 31m | |
-7 | 12h 30m | |
+7 | 11h 40m | |
 8 | 16h 0m | |
 9 | 19h 30m | |
