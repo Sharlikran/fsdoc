@@ -5,7 +5,7 @@ Nuka-Cola Bottler
 
 ## Triple Wide Room
 
-![Storage Room](t2images/tripplenukacolastation.jpg)
+![Storage Room](t3images/triplenukacolaplant.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
