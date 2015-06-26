@@ -45,7 +45,7 @@ Skill Value | Lounge | Bar | Club
 3 | 2h 37m | 2h 32m | 2h 16m
 4 | 4h 22m | 4h 10m | 4h 3m
 5 | 6h 40m | | 5h 58m
-6 | 8h 31m | |
-7 | 11h 40m | |
-8 | 16h 0m | |
+6 | 8h 35m | |
+7 | 11h 28m | |
+8 | 14h 44m | |
 9 | 19h 30m | |
