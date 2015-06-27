@@ -15,7 +15,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 
 ## Double Wide Room
 
-![Science Center](t1images/doublesciencelab.jpg)
+![Science Center](t2images/doublesciencestation.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
