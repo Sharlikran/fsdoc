@@ -5,13 +5,13 @@ Water Purification
 
 ## Triple Wide Room
 
-![Garden](t1images/triplewaterpurification.jpg)
+![Garden](t3images/tripplepurificationplant.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Water Purification | | xxx | xxx | xxx | xxx
 2 | Purification Station | | 18000 | 41 | 225 | 1200
-3 | Purification Plant | | | 50 | 300 | xxx
+3 | Purification Plant | | | 50 | 300 | 3600
 
 ## Double Wide Room
 
