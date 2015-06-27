@@ -15,7 +15,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 
 ## Double Wide Room
 
-![Medbay](t1images/doublemedbay.jpg)
+![Medbay](t2images/doubleclinic.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
