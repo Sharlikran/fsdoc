@@ -48,4 +48,4 @@ Skill Value | Armory | Weapons Station | Weapons Center
 6 | 8h 35m | |
 7 | 11h 28m | |
 8 | 14h 44m | |
-9 | 19h 30m | |
+9 | 18h 25m | |
