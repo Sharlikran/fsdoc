@@ -11,7 +11,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 ------|------|------|------|------|------|------
 1 | Science Lab | | 2000 | 4 | 30 | xxx
 2 | Science Station | | 6000 | 8 | 30 | 400
-3 | Science Center | | | 12 | 30 | xxx
+3 | Science Center | | | 12 | 30 | 1200
 
 ## Double Wide Room
 
