@@ -5,7 +5,7 @@ Storage Room
 
 ## Triple Wide Room
 
-![Storage Room](t3images/t3tripplestorageroom.jpg)
+![Storage Room](t3images/tripplestorageroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
@@ -21,11 +21,11 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
 1 | Storage Room | | 1125 | 20 | 120
 2 | Depot | | 3375 | 30 | 225
-3 | Warehouse | |  | 40 | xxx
+3 | Warehouse | |  | 40 | 675
 
 ## Single Wide Room
 
-![Storage Room](t1images/t1singlestorageroom.jpg)
+![Storage Room](t1images/singlestorageroom.jpg)
 
 Plus 75 More Caps then previous
 

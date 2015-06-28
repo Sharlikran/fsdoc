@@ -5,7 +5,7 @@ Power Generator
 
 ## Triple Wide Room
 
-![Power Plant](t3images/t3tripplepowerplant.jpg)
+![Power Plant](t3images/tripplepowerplant.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -25,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Power Plant](t1images/t1singlepowerplant.jpg)
+![Power Plant](t1images/singlepowerplant.jpg)
 
 [1] 25 Caps for each additional Room
 

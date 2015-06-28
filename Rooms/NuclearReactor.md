@@ -3,7 +3,7 @@
 Nuclear Reactor
 ===========
 
-![Nuclear Reactor](t3images/t3tripplesuperreactor.jpg)
+![Nuclear Reactor](t3images/tripplesuperreactor.jpg)
 
 ## Triple Wide Room
 

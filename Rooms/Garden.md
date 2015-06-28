@@ -15,7 +15,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Double Wide Room
 
-![Garden](t1images/t1doublegarden.jpg)
+![Garden](t1images/doublegarden.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -25,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Garden](t1images/t1singlegarden.jpg)
+![Garden](t1images/singlegarden.jpg)
 
 +300 each room
 

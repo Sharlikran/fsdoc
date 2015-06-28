@@ -25,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 
 ## Single Wide Room
 
-![Medbay](t1images/t1singlemedbay.jpg)
+![Medbay](t1images/singlemedbay.jpg)
 
 100 Additional Caps Per Room
 

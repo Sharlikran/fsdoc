@@ -25,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 
 ## Single Wide Room
 
-![Science Lab](t1images/t1singlesciencelab.jpg)
+![Science Lab](t1images/singlesciencelab.jpg)
 
 100 Additional Caps Per Room
 

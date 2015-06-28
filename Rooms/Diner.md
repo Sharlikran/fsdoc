@@ -23,7 +23,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Diner](t1images/t1singlediner.jpg)
+![Diner](t1images/singlediner.jpg)
 
 Each additional Room is 25 Caps
 

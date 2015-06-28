@@ -3,7 +3,7 @@
 Elevator
 ===========
 
-![Science Lab](t1images/t1singleelevator.jpg)
+![Science Lab](t1images/singleelevator.jpg)
 
 Plus 25 for each additional elevator
 

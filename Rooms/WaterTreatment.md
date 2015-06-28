@@ -15,7 +15,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Double Wide Room
 
-![Water Treatment](t2images/t2doublewatertreatment.jpg)
+![Water Treatment](t3images/doublewatertreatmentplant.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -25,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Water Treatment](t1images/t1singlewatertreatment.jpg)
+![Water Treatment](t1images/singlewatertreatment.jpg)
 
 Plus 25 Caps for each additional
 
