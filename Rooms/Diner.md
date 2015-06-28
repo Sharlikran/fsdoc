@@ -19,9 +19,9 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Diner | | 375 | 18 | 100 | xxx
-2 | Restaurant | | 1125 | 22 | 150 | xxx
-3 | Cafeteria | | | 26 | 200 | xxx
+1 | Diner | | 375 | 18 | 100 | 40
+2 | Restaurant | | 1125 | 22 | 150 | 75
+3 | Cafeteria | | | 26 | 200 | 225
 
 ## Single Wide Room
 
@@ -31,6 +31,6 @@ Each additional Room is 25 Caps
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Diner | 100 | 250 | 8 | 50 | xxx
+1 | Diner | 100 | 250 | 8 | 50 | 20
 2 | Restaurant | | 750 | 10 | 75 | xxx
 3 | Cafeteria | | | 12 | 100 | xxx
