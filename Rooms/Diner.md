@@ -15,6 +15,8 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Double Wide Room
 
+![Diner](t3images/doublecafeteria.jpg)
+
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Diner | | 375 | 18 | 100 | xxx
