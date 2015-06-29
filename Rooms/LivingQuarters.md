@@ -25,12 +25,12 @@ Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 
 ## Single Wide Room
 
-![Living Quarters](t1images/singlelivingquarters.jpg)
+![Living Quarters](t1images/singleresidence.jpg)
 
 [1] Cost is, (Number of Living Spaces X 10) +10
 
 Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 ------|------|------|------|------|------|------
-1 | Living Quarters | xxx | 250 | 8 | xxx
-2 | Residence | | 750 | 10 | xxx
+1 | Living Quarters | xxx | 250 | 8 | 20
+2 | Residence | | 750 | 10 | 50
 3 | Barracks | | | 12 | xxx
