@@ -25,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 
 ## Single Wide Room
 
-![Living Quarters](t1images/singleresidence.jpg)
+![Living Quarters](t2images/singleresidence.jpg)
 
 [1] Cost is, (Number of Living Spaces X 10) +10
 
