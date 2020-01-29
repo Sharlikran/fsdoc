@@ -9,7 +9,7 @@ Storage Room
 
 ## Triple Wide Room
 
-![Storage Room](img/t3images/tripplestorageroom.jpg)
+{% include image.html file="img/t3images/tripplestorageroom.jpg" alt="tripplestorageroom" %}
 
 Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
@@ -19,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 
 ## Double Wide Room
 
-![Storage Room](img/t3images/doublewarehouse.jpg)
+{% include image.html file="img/t3images/doublewarehouse.jpg" alt="doublewarehouse" %}
 
 Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
@@ -29,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Storage Room](img/t1images/singlestorageroom.jpg)
+{% include image.html file="img/t1images/singlestorageroom.jpg" alt="singlestorageroom" %}
 
 Plus 75 More Caps then previous
 
@@ -41,4 +41,4 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 
 ## Dwellers Required To Build
 
-![Storage Room](img/reqstorageroom.jpg)
+{% include image.html file="img/reqstorageroom.jpg" alt="reqstorageroom" %}
