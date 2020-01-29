@@ -39,3 +39,6 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 2 | Depot | | 2250 | 15 | 150
 3 | Warehouse | | | 20 | xxx
 
+## Dwellers Required To Build
+
+![Storage Room](img/reqstorageroom.jpg)
