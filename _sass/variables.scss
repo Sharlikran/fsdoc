@@ -1,0 +1,123 @@
+/* Breakpoints */
+/* 1920px */
+$full-breakpoint: 1900px !default;
+/* 1600px */
+$huge-breakpoint: 1580px !default;
+/* 1280px */
+$large-breakpoint: 1260px !default;
+/* 800px */
+$medium-breakpoint: 780px !default;
+/* 580px or Phone */
+$small-breakpoint: 560px !default;
+
+/* Keep this for invert */
+$body-link-color: rgb(30, 107, 184);
+
+/* Color Variables
+ *
+ * This files contains CSS variables accessible to all selectors */
+:root {
+    /* Side Menu Variables */
+	--sideMenu_OPVAR_TabCount: 2; /* Change as more tabs are added */
+	--sideMenuBorderStyle: solid;
+	--sideMenuBorderWidth: 0.13;
+	--sideMenuBorderWidthArray: 0 var(--sideMenuBorderWidth) var(--sideMenuBorderWidth) 0;
+	--sideMenuContentPadding: 0.25rem;
+	--sideMenuMaxHeight: 99vh;
+	--sideMenuMaxInnerHeight: calc(var(--sideMenuMaxHeight) - var(--sideMenuBorderWidth));
+	--sideBaseMenuWidth: 45vw;
+	--sideMenuMaxWidth: calc(var(--sideBaseMenuWidth) - var(--sideMenuTabWidth));
+	--sideMenuMinHeight: calc(var(--sideMenuTabHeight) * var(--sideMenu_OPVAR_TabCount));
+	--sideMenuPOSEdge: calc(var(--sideMenuWidth) * (-1));
+	--sideMenuPOSEdgeNoJS: calc((var(--sideMenuWidth) + var(--sideMenuTabWidth)) * (-1));
+	--sideMenuTabBorderWidthArray: 0 var(--sideMenuBorderWidth) var(--sideMenuBorderWidth) var(--sideMenuBorderWidth);
+	--sideMenuTabHeight: 2.50rem;
+	--sideMenuTabWidth: 1.25rem;
+	--sideMenuTabPOSEdge: calc(var(--sideMenuTabWidth) * (-1));
+	--sideMenuTab1POSTop: 0;
+	--sideMenuTab2POSTop: var(--sideMenuTabHeight);
+	--sideMenuTab3POSTop: calc(var(--sideMenuTab2POSTop) + var(--sideMenuTabHeight));
+	--sideMenuTab4POSTop: calc(var(--sideMenuTab3POSTop) + var(--sideMenuTabHeight));
+	--sideMenuTab5POSTop: calc(var(--sideMenuTab4POSTop) + var(--sideMenuTabHeight));
+	--sideMenuTransitionSpeed: 0.3s;
+	--sideMenuWidth: 16rem;
+	--sideMenuZIndex: 1000;
+	--sizeMenuZIndexActive: 1002;
+	--sideMenuZIndexInactive: 1001;
+	--fontSizeBase: 16px;
+	--fontSizeMod: 100;
+	--fontSizeModPreview: 100;
+	--fontSizeScale: calc(var(--fontSizeBase) * var(--fontSizeMod) * 0.01);
+	--fontSizeScalePreview: calc(var(--fontSizeBase) * var(--fontSizeModPreview) * 0.01);
+
+  /* Cayman colors
+   *
+   * Headers */
+  --cayman-header-heading: rgb(255, 255, 255);
+  --cayman-header-background: rgb(21, 153, 87);
+  --cayman-header-background-secondary: rgb(21, 87, 153);
+  /* Text */
+  --cayman-section-headings: rgb(21, 153, 87);
+  --cayman-body-text: rgb(96, 108, 113);
+  --cayman-body-href: rgb(30, 107, 184);
+  --cayman-blockquote-text: rgb(129, 145, 152);
+  /* Code */
+  --cayman-code-background: rgb(243, 246, 250);
+  --cayman-code-text: rgb(86, 116, 130);
+  /* Borders */
+  --cayman-border: rgb(220, 230, 240);
+  --cayman-table-border-color: rgb(233, 235, 236);
+  --cayman-hr-border: rgb(239, 240, 241);
+
+  /* Sharlikran Colors
+   *
+   * body */
+  --body-text: rgb(149, 157, 165);
+  --body-background: rgb(36, 41, 46);
+
+  /* code */
+  --code-background: rgb(29, 33, 37);
+
+  /* headers */
+  --header1-text: rgb(225, 228, 232);
+  --header2-text: rgb(223, 226, 229);
+  --header3-text: rgb(216, 220, 225);
+  --header4-text: rgb(209, 213, 218);
+  --header5-text: rgb(202, 207, 211);
+  --header6-text: rgb(174, 182, 190);
+
+  --header-border: rgb(100, 109, 119);
+
+  --header1-background: rgb(79, 90, 100);
+  --header2-background: rgb(81, 88, 97);
+  --header3-background: rgb(61, 69, 77);
+  --header4-background: rgb(58, 67, 75);
+  --header5-background: rgb(47, 54, 60);
+  --header6-background: rgb(40, 46, 52);
+
+  --toc-header-text: var(--cayman-header-background);
+  --blockquote-grey: rgb(33, 33, 33);
+  /* 17 basic site friendly colors */
+  --black-text: rgb(0, 0, 0);
+  --blue-text: rgb(33, 136, 255);
+  --brown-text: rgb(152, 112, 16);
+  --cyan-text: rgb(41, 208, 208);
+  --ltgray-text: rgb(209, 210, 212);
+  --gray-text: rgb(181, 181, 181);
+  --dkgray-text: rgb(87, 87, 87);
+  --green-text: rgb(21, 153, 87);
+  --ltblue-text: rgb(157, 175, 255);
+  --ltgreen-text: rgb(129, 197, 122);
+  --orange-text: rgb(218, 119, 62);
+  --pink-text: rgb(255, 205, 243);
+  --purple-text: rgb(209, 188, 249);
+  --red-text: rgb(207,52,50); /* was warning-red */
+  --tan-text: rgb(233, 222, 187);
+  --white-text: rgb(255, 255, 255);
+  --yellow-text: rgb(244, 203, 53);
+  
+  /* save but unused */
+  --old-red-text: rgb(224, 88, 88);
+  --darkred-text: rgb(214, 24, 0);
+  --ltred-text: rgb(211, 47, 47);
+}
