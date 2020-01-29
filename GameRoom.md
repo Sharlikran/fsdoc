@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Game Room
+---
+[Return](../index.html)
 
 Game Room
 ===========
 
 ## Triple Wide Room
 
-![Arcade](t2images/triplearcade.jpg)
+![Arcade](img/t2images/triplearcade.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Double Wide Room
 
-![Gaming Center](t3images/doublegamingcenter.jpg)
+![Gaming Center](img/t3images/doublegamingcenter.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

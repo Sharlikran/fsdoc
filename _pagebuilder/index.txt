@@ -1,29 +1,3 @@
 {{PAGETITLE="Fallout shelter Wiki"}}
 ## Contents...
 {{CONTENTS=3}}
-
-## Vault Rooms
-
-Vault Rooms and their statistics.
-
-* [[Armory.html | Armory]]
-* [[AthleticsRoom.html | Athletics Room]]
-* [[Classroom.html | Classroom]]
-* [[Diner.html | Diner]]
-* [[Elevator.html | Elevator]]
-* [[FitnessRoom.html | Fitness Room]]
-* [[GameRoom.html | Game Room]]
-* [[Garden.html | Garden]]
-* [[LivingQuarters.html | Living Quarters]]
-* [[Lounge.html | Lounge]]
-* [[Medbay.html | Medbay]]
-* [[NuclearReactor.html | Nuclear Reactor]]
-* [[NukaColaBottler.html | Nuka-Cola Bottler]]
-* [[PowerGenerator.html | Power Generator]]
-* [[RadioStudio.html | Radio Studio]]
-* [[ScienceLab.html | Science Lab]]
-* [[StorageRoom.html | Storage Room]]
-* [[VaultDoor.html | Vault Door]]
-* [[WaterPurification.html | Water Purification]]
-* [[WaterTreatment.html | Water Treatment]]
-* [[WeightRoom.html | Weight Room]]

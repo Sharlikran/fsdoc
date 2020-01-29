@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Athletics Room
+---
+[Return](../index.html)
 
 Athletics Room
 ===========
 
 ## Triple Wide Room
 
-![Athletics Room](t1images/tripleathleticsroom.jpg)
+![Athletics Room](img/t1images/tripleathleticsroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Double Wide Room
 
-![Athletics Room](t1images/doubleathleticsroom.jpg)
+![Athletics Room](img/t1images/doubleathleticsroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Athletics Studio](t2images/singleathleticsstudio.jpg)
+![Athletics Studio](img/t2images/singleathleticsstudio.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

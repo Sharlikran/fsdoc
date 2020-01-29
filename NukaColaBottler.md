@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Nuka-Cola Bottler
+---
+[Return](../index.html)
 
 Nuka-Cola Bottler
 ===========
 
 ## Triple Wide Room
 
-![Storage Room](t3images/triplenukacolaplant.jpg)
+![Storage Room](img/t3images/triplenukacolaplant.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Double Wide Room
 
-![Storage Room](t1images/doublenukacolabottler.jpg)
+![Storage Room](img/t1images/doublenukacolabottler.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Storage Room](t1images/singlenukacolabottler.jpg)
+![Storage Room](img/t1images/singlenukacolabottler.jpg)
 
 Plus 750 each additional room
 

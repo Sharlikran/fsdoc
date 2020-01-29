@@ -1,3 +1,7 @@
+---
+layout: default
+title: Vault Rooms
+---
 ## Vault Rooms
 
 Vault Rooms and their statistics.

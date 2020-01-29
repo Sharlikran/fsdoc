@@ -1,9 +1,13 @@
-[Return](../README.md)
+---
+layout: default
+title: Vault Door
+---
+[Return](../index.html)
 
 Vault Door
 ===========
 
-![Fortified Vault Door](t3images/doublefortifiedvaultdoor.jpg)
+![Fortified Vault Door](img/t3images/doublefortifiedvaultdoor.jpg)
 
 Tier | Name | Upgrade Cost
 ------|------|------

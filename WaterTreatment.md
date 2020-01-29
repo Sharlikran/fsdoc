@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Water Treatment
+---
+[Return](../index.html)
 
 Water Treatment
 ===========
 
 ## Triple Wide Room
 
-![Water Treatment](t3images/triplewatertreatmentplant.jpg)
+![Water Treatment](img/img/t3images/triplewatertreatmentplant.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Double Wide Room
 
-![Water Treatment](t3images/doublewatertreatmentplant.jpg)
+![Water Treatment](img/img/t3images/doublewatertreatmentplant.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Water Treatment](t1images/singlewatertreatment.jpg)
+![Water Treatment](img/t1images/singlewatertreatment.jpg)
 
 Plus 25 Caps for each additional
 

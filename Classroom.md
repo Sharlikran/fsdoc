@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Classroom
+---
+[Return](../index.html)
 
 Classroom
 ===========
 
 ## Triple Wide Room
 
-![Classroom](t1images/tripleclassroom.jpg)
+![Classroom](img/t1images/tripleclassroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Double Wide Room
 
-![Classroom](t1images/doubleclassroom.jpg)
+![Classroom](img/t1images/doubleclassroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Classroom](t1images/singleclassroom.jpg)
+![Classroom](img/t1images/singleclassroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

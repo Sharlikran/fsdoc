@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Power Generator
+---
+[Return](../index.html)
 
 Power Generator
 ===========
 
 ## Triple Wide Room
 
-![Power Plant](t3images/tripplepowerplant.jpg)
+![Power Plant](img/t3images/tripplepowerplant.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Double Wide Room
 
-![Power Plant](t1images/doublepowergenerator.jpg)
+![Power Plant](img/t1images/doublepowergenerator.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Power Plant](t1images/singlepowerplant.jpg)
+![Power Plant](img/t1images/singlepowerplant.jpg)
 
 [1] 25 Caps for each additional Room
 

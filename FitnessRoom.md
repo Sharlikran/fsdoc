@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Fitness Room
+---
+[Return](../index.html)
 
 Fitness Room
 ===========
 
 ## Triple Wide Room
 
-![Fitness Room](t2images/triplefitnessstudio.jpg)
+![Fitness Room](img/t2images/triplefitnessstudio.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Double Wide Room
 
-![Fitness Room](t1images/doublefitnessroom.jpg)
+![Fitness Room](img/t1images/doublefitnessroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Fitness Room](t1images/singlefitnessroom.jpg)
+![Fitness Room](img/t1images/singlefitnessroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

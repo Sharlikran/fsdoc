@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Storage Room
+---
+[Return](../index.html)
 
 Storage Room
 ===========
 
 ## Triple Wide Room
 
-![Storage Room](t3images/tripplestorageroom.jpg)
+![Storage Room](img/t3images/tripplestorageroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 
 ## Double Wide Room
 
-![Storage Room](t3images/doublewarehouse.jpg)
+![Storage Room](img/t3images/doublewarehouse.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Storage Room](t1images/singlestorageroom.jpg)
+![Storage Room](img/t1images/singlestorageroom.jpg)
 
 Plus 75 More Caps then previous
 

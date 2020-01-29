@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Diner
+---
+[Return](../index.html)
 
 Diner
 ===========
 
 ## Triple Wide Room
 
-![Cafeteria](t3images/triplecafeteria.jpg)
+![Cafeteria](img/t3images/triplecafeteria.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Double Wide Room
 
-![Diner](t3images/doublecafeteria.jpg)
+![Diner](img/t3images/doublecafeteria.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Diner](t2images/singlerestaurant.jpg)
+![Diner](img/t2images/singlerestaurant.jpg)
 
 Each additional Room is 25 Caps
 

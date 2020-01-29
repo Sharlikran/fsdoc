@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Weight Room
+---
+[Return](../index.html)
 
 Weight Room
 ===========
 
 ## Triple Wide Room
 
-![Weight Room](t1images/tripleweightroom.jpg)
+![Weight Room](img/t1images/tripleweightroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Double Wide Room
 
-![Weight Room](t1images/doubleweightroom.jpg)
+![Weight Room](img/t1images/doubleweightroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Strength Center](t3images/singlestrengthcenter.jpg)
+![Strength Center](img/t3images/singlestrengthcenter.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

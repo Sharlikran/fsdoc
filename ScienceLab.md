@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Science Lab
+---
+[Return](../index.html)
 
 Science Lab
 ===========
 
 ## Triple Wide Room
 
-![Science Center](t3images/triplesciencecenter.jpg)
+![Science Center](img/t3images/triplesciencecenter.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 
 ## Double Wide Room
 
-![Science Center](t3images/doublesciencecenter.jpg)
+![Science Center](img/t3images/doublesciencecenter.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 
 ## Single Wide Room
 
-![Science Lab](t1images/singlesciencelab.jpg)
+![Science Lab](img/t1images/singlesciencelab.jpg)
 
 100 Additional Caps Per Room
 

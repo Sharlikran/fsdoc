@@ -1,9 +1,13 @@
-[Return](../README.md)
+---
+layout: default
+title: Elevator
+---
+[Return](../index.html)
 
 Elevator
 ===========
 
-![Science Lab](t1images/singleelevator.jpg)
+![Science Lab](img/t1images/singleelevator.jpg)
 
 Plus 25 for each additional elevator
 

@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Lounge
+---
+[Return](../index.html)
 
 Lounge
 ===========
 
 ## Triple Wide Room
 
-![Lounge](t1images/triplelounge.jpg)
+![Lounge](img/t1images/triplelounge.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Double Wide Room
 
-![Lounge](t1images/doublelounge.jpg)
+![Lounge](img/t1images/doublelounge.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Lounge](t1images/singlelounge.jpg)
+![Lounge](img/t1images/singlelounge.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

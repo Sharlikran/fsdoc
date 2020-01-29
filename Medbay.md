@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Medbay
+---
+[Return](../index.html)
 
 Medbay
 ===========
 
 ## Triple Wide Room
 
-![Medbay](t3images/tripplehospital.jpg)
+![Medbay](img/t3images/tripplehospital.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 
 ## Double Wide Room
 
-![Medbay](t3images/doublehospital.jpg)
+![Medbay](img/t3images/doublehospital.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 
 ## Single Wide Room
 
-![Medbay](t1images/singlemedbay.jpg)
+![Medbay](img/t1images/singlemedbay.jpg)
 
 100 Additional Caps Per Room
 

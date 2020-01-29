@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Garden
+---
+[Return](../index.html)
 
 Garden
 ===========
 
 ## Triple Wide Room
 
-![Garden](t3images/triplehydroponics.jpg)
+![Garden](img/t3images/triplehydroponics.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Double Wide Room
 
-![Garden](t1images/doublegarden.jpg)
+![Garden](img/t1images/doublegarden.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 
 ## Single Wide Room
 
-![Garden](t1images/singlegarden.jpg)
+![Garden](img/t1images/singlegarden.jpg)
 
 +300 each room
 

@@ -1,9 +1,13 @@
-[Return](../README.md)
+---
+layout: default
+title: Nuclear Reactor
+---
+[Return](../index.html)
 
 Nuclear Reactor
 ===========
 
-![Nuclear Reactor](t3images/tripplesuperreactor.jpg)
+![Nuclear Reactor](img/t3images/tripplesuperreactor.jpg)
 
 ## Triple Wide Room
 

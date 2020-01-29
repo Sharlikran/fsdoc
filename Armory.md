@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Armory
+---
+[Return](../index.html)
 
 Armory
 ===========
 
 ## Triple Wide Room
 
-![Armory](t1images/triplearmory.jpg)
+![Armory](img/t1images/triplearmory.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -15,7 +19,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Double Wide Room
 
-![Armory](t1images/doublearmory.jpg)
+![Armory](img/t1images/doublearmory.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -25,7 +29,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Armory](t2images/singleweaponsstation.jpg)
+![Armory](img/t2images/singleweaponsstation.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

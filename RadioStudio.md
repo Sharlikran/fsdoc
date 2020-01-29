@@ -1,11 +1,15 @@
-[Return](../README.md)
+---
+layout: default
+title: Radio Studio
+---
+[Return](../index.html)
 
 Radio Studio
 ===========
 
 ## Triple Wide Room
 
-![Radio Station](t2images/tripleradiostation.jpg)
+![Radio Station](img/t2images/tripleradiostation.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
@@ -23,7 +27,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Radio Station](t1images/singleradiostudio.jpg)
+![Radio Station](img/t1images/singleradiostudio.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
