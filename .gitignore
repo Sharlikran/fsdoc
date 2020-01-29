@@ -1,0 +1,16 @@
+# IDE files
+.idea/
+# if a symlink
+.idea
+_site
+/_site
+_site/
+_site/*
+.sass-cache
+.sass-cache/
+.sass-cache/*
+.jekyll-cache
+
+/favicon.ico
+/pagebuilder/buildall.bat
+/pagebuilder/img
