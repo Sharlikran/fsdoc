@@ -1,0 +1,10 @@
+{{PAGETITLE="Congratulations you are the Overseer"}}
+## Contents...
+{{CONTENTS=3}}
+## Your First Vault
+
+{{image:firstvault.jpg | firstvault}}
+
+For your first vault you should keep it simple. Just a few single wide rooms until you have the population to make other rooms. The reason is, the more rooms you have the more energy you need. The more people you have the more food and water you need. If you expand too fast then you will not have power for the rooms. If your Diner or Water Treatment Plant shut down because of lack of power then you will not have food for the dwellers.
+
+Keep it simple at the start.
