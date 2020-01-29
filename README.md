@@ -1,29 +1,11 @@
 ---
 layout: default
-title: Vault Rooms
+title: Fallout shelter Wiki
 ---
-## Vault Rooms
+## Starting again on PC
 
-Vault Rooms and their statistics.
+{{image:beginingagain.jpg | beginingagain}}
 
-* [Armory](Rooms/Armory.md)
-* [Athletics Room](Rooms/AthleticsRoom.md)
-* [Classroom](Rooms/Classroom.md)
-* [Diner](Rooms/Diner.md)
-* [Elevator](Rooms/Elevator.md)
-* [Fitness Room](Rooms/FitnessRoom.md)
-* [Game Room](Rooms/GameRoom.md)
-* [Garden](Rooms/Garden.md)
-* [Living Quarters](Rooms/LivingQuarters.md)
-* [Lounge](Rooms/Lounge.md)
-* [Medbay](Rooms/Medbay.md)
-* [Nuclear Reactor](Rooms/NuclearReactor.md)
-* [Nuka-Cola Bottler](Rooms/NukaColaBottler.md)
-* [Power Generator](Rooms/PowerGenerator.md)
-* [Radio Studio](Rooms/RadioStudio.md)
-* [Science Lab](Rooms/ScienceLab.md)
-* [Storage Room](Rooms/StorageRoom.md)
-* [Vault Door](Rooms/VaultDoor.md)
-* [Water Purification](Rooms/WaterPurification.md)
-* [Water Treatment](Rooms/WaterTreatment.md)
-* [Weight Room](Rooms/WeightRoom.md)
+I last played in maybe 2015 because that seems to be the last time I updated this wiki. They didn't even have pets when I played. I got one from a free lunchbox so we will see how it goes.
+
+For thie second time around I'm already strugeling with only two weapons and I'm low on population so I can't really make more rooms or make things more efficent yet.

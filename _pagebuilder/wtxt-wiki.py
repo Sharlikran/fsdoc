@@ -159,36 +159,6 @@ Contents
 
 htmlHead = """
 ---
-<h1 class="header1">{{ page.title }}</h1>
-<hr>
-<h1 class="grhead1">Main Table of Contents</h1>
-<div id="tableOfContents" class="grid-toc">
-    <div class="toc1">
-        <h2 class="grhead2"><a href="Armory.html">Armory</a></h2>
-        <h2 class="grhead2"><a href="AthleticsRoom.html">Athletics Room</a></h2>
-        <h2 class="grhead2"><a href="Classroom.html">Classroom</a></h2>
-        <h2 class="grhead2"><a href="Diner.html">Diner</a></h2>
-        <h2 class="grhead2"><a href="Elevator.html">Elevator</a></h2>
-        <h2 class="grhead2"><a href="FitnessRoom.html">Fitness Room</a></h2>
-        <h2 class="grhead2"><a href="GameRoom.html">Game Room</a></h2>
-        <h2 class="grhead2"><a href="Garden.html">Garden</a></h2>
-        <h2 class="grhead2"><a href="LivingQuarters.html">Living Quarters</a></h2>
-        <h2 class="grhead2"><a href="Lounge.html">Lounge</a></h2>
-    </div>
-    <div class="toc2">
-        <h2 class="grhead2"><a href="Medbay.html">Medbay</a></h2>
-        <h2 class="grhead2"><a href="NuclearReactor.html">Nuclear Reactor</a></h2>
-        <h2 class="grhead2"><a href="NukaColaBottler.html">Nuka-Cola Bottler</a></h2>
-        <h2 class="grhead2"><a href="PowerGenerator.html">Power Generator</a></h2>
-        <h2 class="grhead2"><a href="RadioStudio.html">Radio Studio</a></h2>
-        <h2 class="grhead2"><a href="ScienceLab.html">Science Lab</a></h2>
-        <h2 class="grhead2"><a href="StorageRoom.html">Storage Room</a></h2>
-        <h2 class="grhead2"><a href="VaultDoor.html">Vault Door</a></h2>
-        <h2 class="grhead2"><a href="WaterPurification.html">Water Purification</a></h2>
-        <h2 class="grhead2"><a href="WaterTreatment.html">Water Treatment</a></h2>
-        <h2 class="grhead2"><a href="WeightRoom.html">Weight Room</a></h2>
-    </div>
-</div>
 <p class="empty">&nbsp;</p>
 <div>
 <!-- Needed, sets the top of the page just before the H1 Title -->
