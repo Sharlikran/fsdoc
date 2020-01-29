@@ -282,7 +282,8 @@ def wtxtToHtml(srcFile, outFile=None, cssDir=''):
     reImageCaptionUrl = re.compile(r'{{image-cap-url:(.+?)}}')
     # --Exclude from Paragraphs
     # reHtmlBegin = re.compile(r'(^\<font.+?\>)|(^\<code.+?\>)|(^\<a\s{1,3}href.+?\>)|(^\<a\s{1,3}(class=".+?)?href.+?\>)|(^\<img\s{1,3}src.+?\>)|^\u00A9|^\<strong|^\<[bB]\>|(^{% include image)')
-    reHtmlNotPar = re.compile(r'\<h\d[>]?|<hr>|{{CONTENTS|class="drkbtn"|{% raw %}|{% endraw %}|<[\/]?div>|<div id=|<div class=|<[\/]?iframe')
+    reHtmlNotPar = re.compile(r'\<h\d[>]?|<hr>|{{CONTENTS|class="drkbtn"|<[\/]?div>|<div id=|<div class=|<[\/]?iframe')
+    reLiquidOnly = re.compile(r'{% raw %}|{% endraw %}')
 
     def imageInline(maObject):
         image_line = maObject.group(1).strip()
@@ -371,11 +372,11 @@ def wtxtToHtml(srcFile, outFile=None, cssDir=''):
     dupeEntryCount = 1
     blockAuthor = "Unknown"
     inNavigationButtons = False
-    inSpoilerBlock = False
     pageTitle = 'title: Your Content'
     # --Read source file --------------------------------------------------
     ins = open(srcFile, 'r')
     for line in ins:
+        inLiquidOnly = False
         # --CSS
         maCss = reCssTag.match(line)
         if maCss:
@@ -537,7 +538,11 @@ def wtxtToHtml(srcFile, outFile=None, cssDir=''):
         # line = reWww.sub(wwwReplace, line)
         # --HTML Font or Code tag first of Line ------------------
         maHtmlNotPar = reHtmlNotPar.search(line)
-        if not maHtmlNotPar:
+        maLiquidOnly = reLiquidOnly.search(line)
+        if maLiquidOnly:
+            if line == '{% raw %}\n' or line == '{% endraw %}\n':
+                inLiquidOnly = True
+        if not maHtmlNotPar and not inLiquidOnly:
             maParagraph = reParagraph.search(line)
             maCloseParagraph = reCloseParagraph.search(line)
             if not maParagraph:
