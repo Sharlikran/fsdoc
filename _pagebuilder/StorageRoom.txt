@@ -1,0 +1,136 @@
+{{PAGETITLE="Storage Room"}}
+<hr>
+## Triple Wide Room
+
+{{image:t3images/tripplestorageroom.jpg | tripplestorageroom}}
+
+<table>
+  <thead>
+    <tr>
+      <th>Tier</th>
+      <th>Name</th>
+      <th>Cost</th>
+      <th>Upgrade Cost</th>
+      <th>Storage</th>
+      <th>Destruction Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Storage Room</td>
+      <td> </td>
+      <td>1500</td>
+      <td>30</td>
+      <td>xxx</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Depot</td>
+      <td> </td>
+      <td>4500</td>
+      <td>45</td>
+      <td>xxx</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Warehouse</td>
+      <td> </td>
+      <td> </td>
+      <td>60</td>
+      <td>xxx</td>
+    </tr>
+  </tbody>
+</table>
+
+## Double Wide Room
+
+{{image:t3images/doublewarehouse.jpg | doublewarehouse}}
+
+<table>
+  <thead>
+    <tr>
+      <th>Tier</th>
+      <th>Name</th>
+      <th>Cost</th>
+      <th>Upgrade Cost</th>
+      <th>Storage</th>
+      <th>Destruction Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Storage Room</td>
+      <td> </td>
+      <td>1125</td>
+      <td>20</td>
+      <td>120</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Depot</td>
+      <td> </td>
+      <td>3375</td>
+      <td>30</td>
+      <td>225</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Warehouse</td>
+      <td> </td>
+      <td> </td>
+      <td>40</td>
+      <td>675</td>
+    </tr>
+  </tbody>
+</table>
+
+## Single Wide Room
+
+{{image:t1images/singlestorageroom.jpg | singlestorageroom}}
+
+Plus 75 More Caps then previous
+
+<table>
+  <thead>
+    <tr>
+      <th>Tier</th>
+      <th>Name</th>
+      <th>Cost</th>
+      <th>Upgrade Cost</th>
+      <th>Storage</th>
+      <th>Destruction Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Storage Room</td>
+      <td>300</td>
+      <td>750</td>
+      <td>10</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Depot</td>
+      <td> </td>
+      <td>2250</td>
+      <td>15</td>
+      <td>150</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Warehouse</td>
+      <td> </td>
+      <td> </td>
+      <td>20</td>
+      <td>xxx</td>
+    </tr>
+  </tbody>
+</table>
+
+## Dwellers Required To Build
+
+{{image:reqstorageroom.jpg | reqstorageroom}}
