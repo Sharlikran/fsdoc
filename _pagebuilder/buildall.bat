@@ -1,5 +1,7 @@
 C:\Python38-32\python.exe wtxt-wiki.py genHtml index.txt
 C:\Python38-32\python.exe wtxt-wiki.py genHtml 2-beginners.txt
+C:\Python38-32\python.exe wtxt-wiki.py genHtml 3-pets.txt
+C:\Python38-32\python.exe wtxt-wiki.py genHtml 4-raiders.txt
 C:\Python38-32\python.exe wtxt-wiki.py genHtml StorageRoom.txt
 REM C:\Python38-32\python.exe wtxt-wiki.py genHtml 4-generalusage.txt
 REM C:\Python38-32\python.exe wtxt-wiki.py genHtml 5-advancedusage.txt
