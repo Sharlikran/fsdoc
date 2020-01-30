@@ -27,7 +27,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 ## Single Wide Room
 
-![Radio Station](img/t1images/singleradiostudio.jpg)
+![Radio Station](img/t2images/singleradiostation.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
