@@ -35,6 +35,6 @@ Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 
 Tier | Name | Cost | Upgrade Cost | Living Spcae | Destruction Value
 ------|------|------|------|------|------|------
-1 | Living Quarters | xxx | 250 | 8 | 20
+1 | Living Quarters | 130 | 250 | 8 | 20
 2 | Residence | | 750 | 10 | 50
 3 | Barracks | | | 12 | xxx
