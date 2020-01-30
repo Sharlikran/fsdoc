@@ -289,25 +289,25 @@ def wtxtToHtml(srcFile, outFile=None, cssDir=''):
         image_line = maObject.group(1).strip()
         if '|' in image_line:
             (max_width, file_name, alt_text) = [chunk.strip() for chunk in image_line.split('|', 2)]
-        return '{{% include image-inline.html max-width="{}" file="img/{}" alt="{}" %}}'.format(max_width, file_name, alt_text)
+        return '{{% include image-inline.html max-width="{}" file="{}" alt="{}" %}}'.format(max_width, file_name, alt_text)
 
     def imageInclude(maObject):
         image_line = maObject.group(1).strip()
         if '|' in image_line:
             (file_name, alt_text) = [chunk.strip() for chunk in image_line.split('|', 1)]
-        return '{{% include image.html file="img/{}" alt="{}" %}}'.format(file_name, alt_text)
+        return '{{% include image.html file="{}" alt="{}" %}}'.format(file_name, alt_text)
 
     def imageCaption(maObject):
         image_line = maObject.group(1).strip()
         if '|' in image_line:
             (file_name, alt_text, caption) = [chunk.strip() for chunk in image_line.split('|', 2)]
-        return '{{% include image-caption.html file="img/{}" alt="{}" caption="{}" %}}'.format(file_name, alt_text, caption)
+        return '{{% include image-caption.html file="{}" alt="{}" caption="{}" %}}'.format(file_name, alt_text, caption)
 
     def imageCaptionUrl(maObject):
         image_line = maObject.group(1).strip()
         if '|' in image_line:
             (file_name, alt_text, caption, url, urlname) = [chunk.strip() for chunk in image_line.split('|', 4)]
-        return '{{% include image-caption-url.html file="img/{}" alt="{}" caption="{}" url="{}" urlname="{}" %}}'.format(file_name, alt_text, caption, url, urlname)
+        return '{{% include image-caption-url.html file="{}" alt="{}" caption="{}" url="{}" urlname="{}" %}}'.format(file_name, alt_text, caption, url, urlname)
 
     def spoilerTag(line):
         spoilerID = ''
@@ -372,6 +372,7 @@ def wtxtToHtml(srcFile, outFile=None, cssDir=''):
     dupeEntryCount = 1
     blockAuthor = "Unknown"
     inNavigationButtons = False
+    inLiquidOnly = False
     pageTitle = 'title: Your Content'
     # --Read source file --------------------------------------------------
     ins = open(srcFile, 'r')
