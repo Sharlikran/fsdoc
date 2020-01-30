@@ -1,6 +1,5 @@
 {{PAGETITLE="Pets"}}
-## Contents...
-{{CONTENTS=3}}
+
 ## Assign a Pet
 
 {{image:assignpet.jpg | assignpet}}

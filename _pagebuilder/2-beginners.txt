@@ -1,6 +1,5 @@
 {{PAGETITLE="Congratulations you are the Overseer"}}
-## Contents...
-{{CONTENTS=3}}
+
 ## Your First Vault
 
 {{image:firstvault.jpg | firstvault}}

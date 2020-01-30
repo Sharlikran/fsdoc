@@ -1,6 +1,5 @@
 {{PAGETITLE="Raiders"}}
-## Contents...
-{{CONTENTS=3}}
+
 ## Raider Invasions
 
 {{image:raiders.jpg | raiders}}
