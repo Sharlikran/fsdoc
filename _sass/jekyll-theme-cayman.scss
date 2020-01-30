@@ -534,6 +534,7 @@ body {
     word-break: normal;
     word-break: keep-all; /* For Firefox to horizontally scroll wider tables. */
     -webkit-overflow-scrolling: touch;
+    margin-left: 0.9rem;
     th {
       font-weight: bold;
       background-color: var(--header3-background);
