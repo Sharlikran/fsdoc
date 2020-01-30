@@ -2,9 +2,9 @@
 layout: default
 title: Weapons Workshop
 ---
-= Weapons Workshop
+# Weapons Workshop
 
-![Radio Station](img/t2images/trippleweaponsroom.jpg)
+![Weapons Workshop](img/t1images/trippleweaponsroom.jpg)
 
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
