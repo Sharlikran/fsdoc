@@ -1,5 +1,7 @@
-{{PAGETITLE="Raiders"}}
-
+---
+layout: default
+title: Raiders
+---
 ## Raider Invasions
 
 {{image:raiders.jpg | raiders}}

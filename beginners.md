@@ -1,5 +1,7 @@
-{{PAGETITLE="Congratulations you are the Overseer"}}
-
+---
+layout: default
+title: Congratulations you are the Overseer
+---
 ## Your First Vault
 
 {{image:firstvault.jpg | firstvault}}

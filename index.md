@@ -1,5 +1,7 @@
-{{PAGETITLE="Fallout shelter Wiki"}}
-
+---
+layout: default
+title: Fallout shelter Wiki
+---
 == Starting again on PC
 
 {{image:beginingagain.jpg | beginingagain}}

@@ -1,5 +1,7 @@
-{{PAGETITLE="Pets"}}
-
+---
+layout: default
+title: Pets
+---
 ## Assign a Pet
 
 {{image:assignpet.jpg | assignpet}}
