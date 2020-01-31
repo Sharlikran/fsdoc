@@ -2,10 +2,11 @@
 layout: default
 title: Radio Studio
 ---
+{% include headerrule.html %}
 {% include pagetitle.html %}
 {% include emptyline.html %}
 {% include anchor.html anchor="top" %}
-{% include navbutton.html anchor="index.html" name="Home" %}
+{% include navbutton.html anchor="index.html" name="Main Page" %}
 {% include emptyline.html %}
 ## Triple Wide Room
 
@@ -41,5 +42,5 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 {% include paragraph.html par="For me with two characters with about 4 and 5 C, it takes about 2h 5m to attract a wasteland Dweller in a Teir Two Single Wide Room." %}
 {% include emptyline.html %}
 {% include note.html note="By adding an outfit with +4 C I was able to reduce the time for a dweller to appear from 42 to 35 minutes." %}
-
-{% include navbutton.html anchor="RadioStudio.html#top" name="Top" %}
+{% include emptyline.html %}
+{% include navbutton.html anchor="RadioStudio.html#top" name="Top Of Page" %}
