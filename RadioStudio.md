@@ -32,6 +32,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Radio Studio | 600 | 1500 | 120
-2 | Radio Station | | 4500 | xxx
+2 | Radio Station | | 4500 | 300
 3 | Broadcast Center | | | xxx
 
+For me with two characters with about 4 and 5 C, it takes about 2h 5m to attract a wasteland Dweller in a Teir Two Single Wide Room.
