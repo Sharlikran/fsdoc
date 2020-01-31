@@ -2,46 +2,45 @@
 layout: default
 title: Armory
 ---
-[Return](../index.html)
-
-Armory
-===========
-
-## Triple Wide Room
-
-![Armory](img/t1images/triplearmory.jpg)
-
+{% include pagetitle.html level="2" anchor="Armory" %}
+{% include emptyline.html %}
+{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="TripleWideRoom" name="Triple Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t1images/triplearmory.jpg" alt="triplearmory" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Armory | | 3000 | 360
 2 | Weapons Station | | 9000 | 600
 3 | Weapons Center | | | xxx
 
-## Double Wide Room
-
-![Armory](img/t1images/doublearmory.jpg)
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t1images/doublearmory.jpg" alt="doublearmory" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Armory | | 2250 | 240
 2 | Weapons Station | | 6750 | xxx
 3 | Weapons Center | | | 1350
 
-## Single Wide Room
-
-![Armory](img/t2images/singleweaponsstation.jpg)
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="SingleWideRoom" name="Single Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t2images/singleweaponsstation.jpg" alt="singleweaponsstation" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Armory | 600 | 1500 | 120
 2 | Weapons Station | | 4500 | 300
 3 | Weapons Center | | | 900
 
-### Training Times
-
-- Low happiness increases training times slightly.
-- Having multiple Dwellers training in the same room decreases training times slightly.
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="TrainingTimes" name="Training Times"%}
+{% include emptyline.html %}
 Skill Value | Armory | Weapons Station | Weapons Center
 ------|------|------|------
 1 | 26m | 24m | 23m
@@ -53,3 +52,8 @@ Skill Value | Armory | Weapons Station | Weapons Center
 7 | 11h 28m | 10h 58m |
 8 | 14h 44m | |
 9 | 18h 25m | |
+
+{% include emptyline.html %}
+{% include note.html note="Low happiness increases training times slightly." %}
+{% include emptyline.html %}
+{% include note.html note="Having multiple Dwellers training in the same room decreases training times slightly." %}
