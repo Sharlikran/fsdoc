@@ -2,10 +2,10 @@
 layout: default
 title: Radio Studio
 ---
-[Return](../index.html)
+{% include navbutton.html anchor="index.html" name="Home" %}
 
-Radio Studio
-===========
+# Radio Studio
+{% include emptyline.html %}
 
 ## Triple Wide Room
 
