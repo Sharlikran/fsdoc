@@ -2,11 +2,11 @@
 layout: default
 title: Radio Studio
 ---
-{% include grayheader.html level="1" anchor="RadioStudio" name="{{ page.title }}" %}
+{% include pagetitle.html level="2" anchor="RadioStudio" %}
 {% include emptyline.html %}
 {% include navbutton.html anchor="index.html" name="Main Page" %}
 {% include emptyline.html %}
-## Triple Wide Room
+{% include grayheader.html level="3" anchor="TripleWideRoom" name="Triple Wide Room"%}
 
 {% include image.html file="t2images/tripleradiostation.jpg" alt="tripleradiostation" %}
 {% include emptyline.html %}
@@ -16,7 +16,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 2 | Radio Station | | 9000 | xxx
 3 | Broadcast Center | | | xxx
 
-## Double Wide Room
+{% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
 
 {% include image.html file="t1images/doubleradiostation.jpg" alt="doubleradiostation" %}
 {% include emptyline.html %}
@@ -26,7 +26,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 2 | Radio Station | | 6750 | xxx
 3 | Broadcast Center | | | xxx
 
-## Single Wide Room
+{% include grayheader.html level="3" anchor="SingleWideRoom" name="Single Wide Room"%}
 
 {% include image.html file="t2images/singleradiostation.jpg" alt="singleradiostation" %}
 {% include emptyline.html %}
