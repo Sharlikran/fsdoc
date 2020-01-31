@@ -2,46 +2,45 @@
 layout: default
 title: Classroom
 ---
-[Return](../index.html)
-
-Classroom
-===========
-
-## Triple Wide Room
-
-![Classroom](img/t1images/tripleclassroom.jpg)
-
+{% include pagetitle.html level="2" anchor="Classroom" %}
+{% include emptyline.html %}
+{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="TripleWideRoom" name="Triple Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t1images/tripleclassroom.jpg" alt="tripleclassroom" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Classroom | | 3000 | 360
 2 | School | | 9000 | 600
 3 | Academy | | xxx | xxx
 
-## Double Wide Room
-
-![Classroom](img/t1images/doubleclassroom.jpg)
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t1images/doubleclassroom.jpg" alt="doubleclassroom" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Classroom | | 2250 | 240
 2 | School | | 6750 | xxx
 3 | Academy | | | 1350
 
-## Single Wide Room
-
-![Classroom](img/t1images/singleclassroom.jpg)
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="SingleWideRoom" name="Single Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t1images/singleclassroom.jpg" alt="singleclassroom" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Classroom | 600 | 1500 | 120
 2 | School | | 4500 | 300
 3 | Academy | | | 900
 
-### Training Times
-
-- Low happiness increases training times slightly.
-- Having multiple Dwellers training in the same room decreases training times slightly.
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="TrainingTimes" name="Training Times"%}
+{% include emptyline.html %}
 Skill Value | Classroom | School | Academy
 ------|------|------|------
 1 | 26m | 24m | 23m
@@ -53,3 +52,10 @@ Skill Value | Classroom | School | Academy
 7 | 11h 28m | 10h 58m |
 8 | 14h 44m | |
 9 | 18h 25m | |
+
+{% include emptyline.html %}
+{% include note.html note="Low happiness increases training times slightly." %}
+{% include emptyline.html %}
+{% include note.html note="Having multiple Dwellers training in the same room decreases training times slightly." %}
+{% include emptyline.html %}
+{% include navbutton.html anchor="RadioStudio.html#RadioStudio" name="Top Of Page" %}
