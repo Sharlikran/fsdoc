@@ -1,8 +1,6 @@
 {{PAGETITLE="Fallout shelter Wiki"}}
-## Contents...
-{{CONTENTS=3}}
 
-## Starting again on PC
+== Starting again on PC
 
 {{image:beginingagain.jpg | beginingagain}}
 
@@ -10,14 +8,22 @@ I last played in maybe 2015 because that seems to be the last time I updated thi
 
 For this second time around I'm already struggling with only two weapons and I'm low on population so I can't really make more rooms or make things more efficient yet.
 
-## After Some Work
+== After Some Work
 
 {{image:aftersomework.jpg | aftersomework}}
 
 After some work I'm on my way to building a fantastic vault 111.
 
-## Day Two
+== Day Two
 
 {{image:daytwocommingalong.jpg | daytwocommingalong}}
 
-Day two has me at 27 dwellers, at least one person per room with a weapon. I have a few people in the Strenght training room for better power management. I'm just waiting on the children to mature.
+Day two has me at 27 dwellers, at least one person per room with a weapon. I have a few people in the Strength training room for better power management. I'm just waiting on the children to mature.
+
+== Day Three
+
+{{image:daythreeand29dwellers.jpg | daythreeand29dwellers}}
+
+Day three and 29 dwellers, and about an hour to go until the Radio Station attracts another Dweller. I have some dwellers with at least 3 or 4 Strength for the Power Plant and I'm maxing our training for a few dwellers for the Diner. Once I get my 30 Dwellers I can get a classroom and finally start training some other dwellers for the Medbay and Science Lab. 
+
+The main reason for all the training is because if they are not happy and in the correct room then they don't level up. I have a few Dwellers that are around level 4 and one of them is still level 1. So I need to get them with an appropriate Special stat and room to increase their level.
