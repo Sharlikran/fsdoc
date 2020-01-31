@@ -2,44 +2,45 @@
 layout: default
 title: Game Room
 ---
-[Return](../index.html)
-
-Game Room
-===========
-
-## Triple Wide Room
-
-![Arcade](img/t2images/triplearcade.jpg)
-
+{% include pagetitle.html level="2" anchor="GameRoom" %}
+{% include emptyline.html %}
+{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="TripleWideRoom" name="Triple Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t2images/triplearcade.jpg" alt="triplearcade" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Game Room | | 3000 | 360
 2 | Arcade | | 9000 | 600
 3 | Gaming Center | | | xxx
 
-## Double Wide Room
-
-![Gaming Center](img/t3images/doublegamingcenter.jpg)
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t3images/doublegamingcenter.jpg" alt="doublegamingcenter" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Game Room | | 2250 | 240
 2 | Arcade | | 6750 | xxx
 3 | Gaming Center | | | 1350
 
-## Single Wide Room
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="SingleWideRoom" name="Single Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t1images/replace-singlegameroom.jpg" alt="replace-singlegameroom" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Game Room | 600 | 1500 | 120
 2 | Arcade | | 4500 | 300
 3 | Gaming Center | | | 900
 
-### Training Times
-
-- Low happiness increases training times slightly.
-- Having multiple Dwellers training in the same room decreases training times slightly.
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="TrainingTimes" name="Training Times"%}
+{% include emptyline.html %}
 Skill Value | Game Room | Arcade | Gaming Center
 ------|------|------|------
 1 | 26m | 24m | 23m
@@ -51,3 +52,10 @@ Skill Value | Game Room | Arcade | Gaming Center
 7 | 11h 28m | 10h 58m |
 8 | 14h 44m | |
 9 | 18h 25m | |
+
+{% include emptyline.html %}
+{% include note.html note="Low happiness increases training times slightly." %}
+{% include emptyline.html %}
+{% include note.html note="Having multiple Dwellers training in the same room decreases training times slightly." %}
+{% include emptyline.html %}
+{% include navbutton.html anchor="#GameRoom" name="Top Of Page" %}

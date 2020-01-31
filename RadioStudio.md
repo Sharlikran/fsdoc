@@ -18,7 +18,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 
 {% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
 
-{% include image.html file="t1images/doubleradiostation.jpg" alt="doubleradiostation" %}
+{% include image.html file="replace-doubleradiostation.jpg" alt="replace-doubleradiostation" %}
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
