@@ -2,46 +2,45 @@
 layout: default
 title: Fitness Room
 ---
-[Return](../index.html)
-
-Fitness Room
-===========
-
-## Triple Wide Room
-
-![Fitness Room](img/t2images/triplefitnessstudio.jpg)
-
+{% include pagetitle.html level="2" anchor="FitnessRoom" %}
+{% include emptyline.html %}
+{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="TripleWideRoom" name="Triple Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t2images/triplefitnessstudio.jpg" alt="triplefitnessstudio" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Fitness Room | | 3000 | 360
 2 | Fitness Studio | | 9000 | 600
 3 | Fitness Center | | | xxx
 
-## Double Wide Room
-
-![Fitness Room](img/t1images/doublefitnessroom.jpg)
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t1images/doublefitnessroom.jpg" alt="doublefitnessroom" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Fitness Room | | 2250 | 240
 2 | Fitness Studio | | 6750 | xxx
 3 | Fitness Center | | | 1350
 
-## Single Wide Room
-
-![Fitness Room](img/t1images/singlefitnessroom.jpg)
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="SingleWideRoom" name="Single Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t1images/singlefitnessroom.jpg" alt="singlefitnessroom" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Fitness Room | 600 | 1500 | 120
 2 | Fitness Studio | | 4500 | 300
 3 | Fitness Center | | | 900
 
-### Training Times
-
-- Low happiness increases training times slightly.
-- Having multiple Dwellers training in the same room decreases training times slightly.
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="TrainingTimes" name="Training Times"%}
+{% include emptyline.html %}
 Skill Value | Fitness Room | Fitness Studio | Fitness Center
 ------|------|------|------
 1 | 26m | 24m | 23m
@@ -53,3 +52,10 @@ Skill Value | Fitness Room | Fitness Studio | Fitness Center
 7 | 11h 28m | 10h 58m |
 8 | 14h 44m | |
 9 | 18h 25m | |
+
+{% include emptyline.html %}
+{% include note.html note="Low happiness increases training times slightly." %}
+{% include emptyline.html %}
+{% include note.html note="Having multiple Dwellers training in the same room decreases training times slightly." %}
+{% include emptyline.html %}
+{% include navbutton.html anchor="#FitnessRoom" name="Top Of Page" %}
