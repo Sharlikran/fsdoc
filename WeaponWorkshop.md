@@ -13,3 +13,5 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 3 | | | | xxx
 
 [1] Upgrading first requires you have 45 dwellers
+
+To craft a Pipe Rifle 5-7 damage, it will take 1h 42m
