@@ -41,4 +41,4 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 {% include emptyline.html %}
 {% include note.html note="Each additional Room is 25 Caps." %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="RadioStudio.html#RadioStudio" name="Top Of Page" %}
+{% include navbutton.html anchor="#Diner" name="Top Of Page" %}

@@ -58,4 +58,4 @@ Skill Value | Classroom | School | Academy
 {% include emptyline.html %}
 {% include note.html note="Having multiple Dwellers training in the same room decreases training times slightly." %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="RadioStudio.html#RadioStudio" name="Top Of Page" %}
+{% include navbutton.html anchor="#Classroom" name="Top Of Page" %}

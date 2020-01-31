@@ -15,4 +15,4 @@ Tier | Name | Cost
 {% include emptyline.html %}
 {% include note.html note="Plus 25 for each additional elevator." %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="RadioStudio.html#RadioStudio" name="Top Of Page" %}
+{% include navbutton.html anchor="#Elevator" name="Top Of Page" %}
