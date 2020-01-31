@@ -2,12 +2,11 @@
 layout: default
 title: Radio Studio
 ---
+{% include pagetitle.html %}
+{% include emptyline.html %}
 {% include anchor.html anchor="top" %}
 {% include navbutton.html anchor="index.html" name="Home" %}
-
-# Radio Studio
 {% include emptyline.html %}
-
 ## Triple Wide Room
 
 {% include image.html file="t2images/tripleradiostation.jpg" alt="tripleradiostation" %}
