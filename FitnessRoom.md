@@ -58,4 +58,6 @@ Skill Value | Fitness Room | Fitness Studio | Fitness Center
 {% include emptyline.html %}
 {% include note.html note="Having multiple Dwellers training in the same room decreases training times slightly." %}
 {% include emptyline.html %}
+{% include note.html note="Plus 150 more caps per room purchaced" %}
+{% include emptyline.html %}
 {% include navbutton.html anchor="#FitnessRoom" name="Top Of Page" %}

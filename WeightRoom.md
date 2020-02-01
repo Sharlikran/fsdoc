@@ -2,46 +2,45 @@
 layout: default
 title: Weight Room
 ---
-[Return](../index.html)
-
-Weight Room
-===========
-
-## Triple Wide Room
-
-![Weight Room](img/t1images/tripleweightroom.jpg)
-
+{% include pagetitle.html level="2" anchor="WeightRoom" %}
+{% include emptyline.html %}
+{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="TripleWideRoom" name="Triple Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t1images/tripleweightroom.jpg" alt="triplearmory" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Weight Room | | 3000 | 360
 2 | Gym | | 9000 | 600
 3 | Strength Center | | | xxx
 
-## Double Wide Room
-
-![Weight Room](img/t1images/doubleweightroom.jpg)
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t1images/doubleweightroom.jpg" alt="doublearmory" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Weight Room | | 2250 | 240
 2 | Gym | | 6750 | xxx
 3 | Strength Center | | | 1350
 
-## Single Wide Room
-
-![Strength Center](img/t3images/singlestrengthcenter.jpg)
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="SingleWideRoom" name="Single Wide Room"%}
+{% include emptyline.html %}
+{% include image.html file="t3images/singlestrengthcenter.jpg" alt="singleweaponsstation" %}
+{% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Weight Room | 600 | 1500 | 120
 2 | Gym | | 4500 | 300
 3 | Strength Center | | | 900
 
-### Training Times
-
-- Low happiness increases training times slightly.
-- Having multiple Dwellers training in the same room decreases training times slightly.
-
+{% include emptyline.html %}
+{% include grayheader.html level="3" anchor="TrainingTimes" name="Training Times"%}
+{% include emptyline.html %}
 Skill Value | Weight Room | Gym | Strength Center
 ------|------|------|------
 1 | 26m | 24m | 23m
@@ -53,3 +52,12 @@ Skill Value | Weight Room | Gym | Strength Center
 7 | 11h 28m | 10h 58m |
 8 | 14h 44m | |
 9 | 18h 25m | |
+
+{% include emptyline.html %}
+{% include note.html note="Low happiness increases training times slightly." %}
+{% include emptyline.html %}
+{% include note.html note="Having multiple Dwellers training in the same room decreases training times slightly." %}
+{% include emptyline.html %}
+{% include note.html note="Plus 150 more caps per room purchaced" %}
+{% include emptyline.html %}
+{% include navbutton.html anchor="#WeightRoom" name="Top Of Page" %}

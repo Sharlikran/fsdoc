@@ -58,4 +58,6 @@ Skill Value | Armory | Weapons Station | Weapons Center
 {% include emptyline.html %}
 {% include note.html note="Having multiple Dwellers training in the same room decreases training times slightly." %}
 {% include emptyline.html %}
+{% include note.html note="Plus 150 more caps per room purchaced" %}
+{% include emptyline.html %}
 {% include navbutton.html anchor="#Armory" name="Top Of Page" %}
