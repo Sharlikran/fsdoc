@@ -46,8 +46,8 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 {% include grayheader.html level="3" anchor="BroadcastTime" name="Single Wide"%}
 {% include emptyline.html %}
 Charisma | Teir 1 | Teir 2 | Teir 3    
- 2 |  | xx | 
-12 |  | 2h 5m | 
+ 2 |  | 2h 47m | 
+12 |  | 1h 47m | 
 xx |  |  | 
 xx |  |  | 
 

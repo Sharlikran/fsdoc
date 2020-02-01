@@ -55,5 +55,6 @@ Triple Wide |	30 | +45 | +50
 
 {% include note.html note="Plus 75 more caps per room purchaced" %}
 {% include emptyline.html %}
+{% include note.html note="With 1 Triple Wide room the next room wouold be 525. The next 600." %}
 {% include emptyline.html %}
 {% include navbutton.html anchor="#StorageRoom" name="Top Of Page" %}
