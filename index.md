@@ -29,4 +29,6 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include image.html file="mysteriousstranger.png" alt="randomencounter1" %}
 {% include emptyline.html %}
-{% include paragraph.html par="I saw my second Mysterious Stranger today and I was so excited I clicked it before i could get a screen shot. This is what he looks like if you have not seen him. I'll try to get my own screen shot next time I see him." %}
+{% include paragraph.html par="I saw my third Mysterious Stranger today and finally got a screen shot and a video. The last two gave me over 1,000 caps. The last one was about 1,900 something. The third one was only 272. Can't complain though as you will see in the video. I now have another objective to get another Mr. Handy." %}
+{% include emptyline.html %}
+{% include youtube.html id="hxom4L7usNo" %}
