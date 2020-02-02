@@ -32,3 +32,7 @@ title: Fallout shelter Wiki
 {% include paragraph.html par="I saw my third Mysterious Stranger today and finally got a screen shot and a video. The last two gave me over 1,000 caps. The last one was about 1,900 something. The third one was only 272. Can't complain though as you will see in the video. I now have another objective to get another Mr. Handy." %}
 {% include emptyline.html %}
 {% include youtube.html id="hxom4L7usNo" %}
+{% include emptyline.html %}
+{% include image.html file="endofdayfour.jpg" alt="endofdayfour" %}
+{% include emptyline.html %}
+{% include paragraph.html par="In the end I didn't get my 5 Dwellers only one but a lot more happened that was still pretty cool. Today I didn't even find an AK, but I gotta say, it was a good day. Huh? Song reference, do you know it?" %}
