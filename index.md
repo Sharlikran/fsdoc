@@ -3,38 +3,30 @@ layout: default
 title: Fallout shelter Wiki
 ---
 {% include emptyline.html %}
-{% include grayheader.html level="2" anchor="StartingagainonPC" name="Starting again on PC" %}
+{% include greenheader.html level="2" anchor="TableOfContents" name="Daily News Update From The Wasteland" %}
+{% include tocheader.html level="2" link="news/day-one.html#StartingagainonPC" name="Starting again on PC" %}
+{% include tocheader.html level="2" link="news/day-two.html#DayTwo" name="Day Two" %}
+{% include tocheader.html level="2" link="news/day-three.html#DayThreeBrightandEarly" name="Day Three Bright and Early" %}
+{% include tocheader.html level="2" link="#DayFourofftoalatestart" name="Day Four off to a late start" %}
 {% include emptyline.html %}
-{% include image.html file="beginingagain.jpg" alt="beginingagain" %}
+{% include grayheader.html level="2" anchor="YoutubePlaylist" name="Youtube Playlist" %}
 {% include emptyline.html %}
-{% include paragraph.html par="I last played in maybe 2015 because that seems to be the last time I updated this wiki. They didn't even have pets when I played. I got one from a free lunch box so we will see how it goes." %}
+{% include playlist.html id="PLy1icqIbVqThNSViN7-zpY5d1bM7Ee2oy" %}
 {% include emptyline.html %}
-{% include paragraph.html par="For this second time around I'm already struggling with only two weapons and I'm low on population so I can't really make more rooms or make things more efficient yet." %}
 {% include emptyline.html %}
-{% include grayheader.html level="2" anchor="AfterSomeWork" name="After Some Work" %}
+{% include grayheader.html level="2" anchor="DayFourofftoalatestart" name="Day Four off to a late start" %}
 {% include emptyline.html %}
-{% include image.html file="aftersomework.jpg" alt="aftersomework" %}
+{% include paragraph.html par="Spent most of my day editing the xEdit docs so just now starting to play. Went on a quest to find Paula Plumbkin. Now if I could just get 5 more dwellers today I'd be happy but I don't think that will happen without breeding them and I'm not sure I want to do that." %}
 {% include emptyline.html %}
-{% include paragraph.html par="After some work I'm on my way to building a fantastic vault 111." %}
+{% include image.html file="news-randomencounter.jpg" alt="randomencounter1" %}
+[Random Encounters](./RandomEncounter.md)
 {% include emptyline.html %}
-{% include grayheader.html level="2" anchor="DayTwo" name="Day Two" %}
+{% include image.html file="news-scouringwasteland.jpg" alt="scouringwasteland" %}
 {% include emptyline.html %}
-{% include image.html file="daytwocommingalong.jpg" alt="daytwocommingalong" %}
+{% include paragraph.html par="I had hoped to get 5 more Dwellers somehow but all was not lost. I instead sent Dwellers into the Wasteland and had my first two Random Encounters." %}
 {% include emptyline.html %}
-{% include paragraph.html par="Day two has me at 27 dwellers, at least one person per room with a weapon. I have a few people in the Strength training room for better power management. I'm just waiting on the children to mature." %}
+{% include paragraph.html par="I also started collecting historical data (Youtube Videos) of my adventures. Today I recorded several bits of footage while on the hunt for Paula Plumbkin." %}
 {% include emptyline.html %}
-{% include grayheader.html level="2" anchor="EndofDayTwo" name="End of Day Two" %}
+{% include image.html file="mysteriousstranger.png" alt="randomencounter1" %}
 {% include emptyline.html %}
-{% include image.html file="daythreeand29dwellers.jpg" alt="daythreeand29dwellers" %}
-{% include emptyline.html %}
-{% include paragraph.html par="It's been a long day two and I am at 29 dwellers, and about an hour to go until the Radio Station attracts another Dweller. I have some dwellers with at least 3 or 4 Strength for the Power Plant and I'm maxing our training for a few dwellers for the Diner. Once I get my 30 Dwellers I can get a classroom and finally start training some other dwellers for the Medbay and Science Lab." %}
-{% include emptyline.html %}
-{% include paragraph.html par="The main reason for all the training is because if they are not happy and in the correct room then they don't level up. I have a few Dwellers that are around level 4 and one of them is still level 1. So I need to get them with an appropriate Special stat and room to increase their level." %}
-{% include emptyline.html %}
-{% include grayheader.html level="2" anchor="DayThreeBrightandEarly" name="Day Three Bright and Early" %}
-{% include emptyline.html %}
-{% include image.html file="daythreequesting.jpg" alt="daythreequesting" %}
-{% include paragraph.html par="I am out bright and early questing. I thought I would try one of the quests that requires a few hours and says it's limited time. Then I upgraded my Overseers Office so I could send out a 2nd team. This time it is a team of one to try and complete an Objective for some caps and so I can get a new one." %}
-{% include emptyline.html %}
-{% include image.html file="endofdaythree.jpg" alt="endofdaythree" %}
-{% include paragraph.html par="Day three is approaching and I have 35 dwellers. One of which was a quest reward for rescuing her. I got the commish and put an end to his Super Cup and the whole Gridiron Gang!" %}
+{% include paragraph.html par="I saw my second Mysterious Stranger today and I was so excited I clicked it before i could get a screen shot. This is what he looks like if you have not seen him. I'll try to get my own screen shot next time I see him." %}

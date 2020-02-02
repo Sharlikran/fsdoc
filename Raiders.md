@@ -5,6 +5,8 @@ title: Raiders
 {% include emptyline.html %}
 {% include grayheader.html level="2" anchor="RaiderInvasions" name="Raider Invasions" %}
 {% include emptyline.html %}
+{% include youtube.html id="FBOHE9eadys" %}
+{% include emptyline.html %}
 {% include image.html file="raiders.jpg" alt="raiders" %}
 {% include emptyline.html %}
 {% include paragraph.html par="As much as you might think these are annoying, pray you get them as often as possible." %}
