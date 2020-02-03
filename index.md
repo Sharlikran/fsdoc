@@ -25,3 +25,8 @@ title: Fallout shelter Wiki
 {% include image.html file="jeffontheroadagain.jpg" alt="jeffontheroadagain" %}
 {% include emptyline.html %}
 {% include paragraph.html par="Jeff answered the call to action and was joined today by Joan. Both equiped with a weapon and stimpacks. Jeff has scored first with a Sawed Off Shotgun." %}
+
+{% include emptyline.html %}
+{% include image.html file="overseerofficefirstadventure.jpg" alt="overseerofficefirstadventure" %}
+{% include emptyline.html %}
+{% include paragraph.html par="We finally have our Overseers Office and our Dwellers went on their first adventure. Our Dwellers are ready to collect more Historical Data for our Vault Library." %}
