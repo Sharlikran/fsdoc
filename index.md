@@ -31,3 +31,6 @@ title: Fallout shelter Wiki
 {% include image.html file="roadtovaultopolis.jpg" alt="dayfivesecondvault" %}
 {% include emptyline.html %}
 {% include paragraph.html par="Our intrepid trio of adventurers are off to find Vaultopolis and any sign of Paula Plumbkin. Upon reaching our destination we are told we are in the wrong place and should journey up North." %}
+{% include emptyline.html %}
+{% include paragraph.html par="On a final note we are happy to announce that the first of our historical data is available in the Vault Library. Check out the Journey to the Center of Vaultopolis." %}
+{% include navlink.html anchor="Vaultopolis.html#DayTwo" name="Journey to the Center of Vaultopolis" %}

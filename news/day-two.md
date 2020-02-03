@@ -20,4 +20,4 @@ title: Common Outfits
 {% include paragraph.html par="The main reason for all the training is because if they are not happy and in the correct room then they don't level up. I have a few Dwellers that are around level 4 and one of them is still level 1. So I need to get them with an appropriate Special stat and room to increase their level." %}
 
 {% include emptyline.html %}
-{% include navbutton.html anchor="news/day-two.html#DayTwo" name="Top Of Page" %}
+{% include navbutton.html anchor="news/day-two.html#JourneytotheCenterofVaultopolis" name="Journey to the Center of Vaultopolis" %}
