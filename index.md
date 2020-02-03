@@ -26,7 +26,7 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include image.html file="meanwhileinvault111.jpg" alt="dayfivesecondvault" %}
 {% include emptyline.html %}
-{% include paragraph.html par="Meanwhile... Jeff should be back soon. WIth no stimpacks or a gun he did the best he could. He did find a few outfits, an Officers Uniform and some Formal Wear. Once he returns there are some stimpacks waiting and with that and a gun in hand he should be back out to explore the wasteland." %}
+{% include paragraph.html par="Meanwhile... Back in Vault 111 training continues for our Dwellers to improve their management of Vault resources. Another mysterious Stranger was captured at the Vault entrance and again only a few hundred caps on him." %}
 {% include emptyline.html %}
 {% include image.html file="roadtovaultopolis.jpg" alt="dayfivesecondvault" %}
 {% include emptyline.html %}
