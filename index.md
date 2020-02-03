@@ -7,32 +7,27 @@ title: Fallout shelter Wiki
 {% include tocheader.html level="2" link="news/day-one.html#StartingagainonPC" name="Starting again on PC" %}
 {% include tocheader.html level="2" link="news/day-two.html#DayTwo" name="Day Two" %}
 {% include tocheader.html level="2" link="news/day-three.html#DayThreeBrightandEarly" name="Day Three Bright and Early" %}
-{% include tocheader.html level="2" link="#DayFourofftoalatestart" name="Day Four off to a late start" %}
+{% include tocheader.html level="2" link="news/day-four.html#DayFourofftoalatestart" name="Day Four off to a late start" %}
+{% include tocheader.html level="2" link="#AnotherlatestartfordayfiveandasecondVault" name="Another late start for day five and a second Vault" %}
 {% include emptyline.html %}
 {% include grayheader.html level="2" anchor="YoutubePlaylist" name="Youtube Playlist" %}
 {% include emptyline.html %}
 {% include playlist.html id="PLy1icqIbVqThNSViN7-zpY5d1bM7Ee2oy" %}
 {% include emptyline.html %}
+{% include grayheader.html level="2" anchor="AnotherlatestartfordayfiveandasecondVault" name="Another late start for day five and a second Vault" %}
 {% include emptyline.html %}
-{% include grayheader.html level="2" anchor="DayFourofftoalatestart" name="Day Four off to a late start" %}
+{% include image.html file="dayfivesecondvault.jpg" alt="dayfivesecondvault" %}
 {% include emptyline.html %}
-{% include paragraph.html par="Spent most of my day editing the xEdit docs so just now starting to play. Went on a quest to find Paula Plumbkin. Now if I could just get 5 more dwellers today I'd be happy but I don't think that will happen without breeding them and I'm not sure I want to do that." %}
+{% include paragraph.html par="Today we find the very first Vaultec Vault, vault 001. Double-ot One as they call it. In order to properly preserve Historical Data (again Youtube videos) on all the adventures our Dwellers embark upon, a second vault had to be discovered. Once properly recorded the Historical Data can be sorted and added to the Vault library. Hopefully we will have our very own Overseers Office soon." %}
 {% include emptyline.html %}
-{% include image.html file="news-randomencounter.jpg" alt="randomencounter1" %}
-[Random Encounters](./RandomEncounter.md)
+{% include image.html file="jeffshouldbebacksoon.jpg" alt="dayfivesecondvault" %}
 {% include emptyline.html %}
-{% include image.html file="news-scouringwasteland.jpg" alt="scouringwasteland" %}
+{% include paragraph.html par="Jeff should be back soon. WIth no stimpacks or a gun he did the best he could. He did find a few outfits, an Officers Uniform and some Formal Wear. Once he returns there are some stimpacks waiting and with that and a gun in hand he should be back out to explore the wasteland." %}
 {% include emptyline.html %}
-{% include paragraph.html par="I had hoped to get 5 more Dwellers somehow but all was not lost. I instead sent Dwellers into the Wasteland and had my first two Random Encounters." %}
+{% include image.html file="meanwhileinvault111.jpg" alt="dayfivesecondvault" %}
 {% include emptyline.html %}
-{% include paragraph.html par="I also started collecting historical data (Youtube Videos) of my adventures. Today I recorded several bits of footage while on the hunt for Paula Plumbkin." %}
+{% include paragraph.html par="Meanwhile... Jeff should be back soon. WIth no stimpacks or a gun he did the best he could. He did find a few outfits, an Officers Uniform and some Formal Wear. Once he returns there are some stimpacks waiting and with that and a gun in hand he should be back out to explore the wasteland." %}
 {% include emptyline.html %}
-{% include image.html file="mysteriousstranger.png" alt="randomencounter1" %}
+{% include image.html file="roadtovaultopolis.jpg" alt="dayfivesecondvault" %}
 {% include emptyline.html %}
-{% include paragraph.html par="I saw my third Mysterious Stranger today and finally got a screen shot and a video. The last two gave me over 1,000 caps. The last one was about 1,900 something. The third one was only 272. Can't complain though as you will see in the video. I now have another objective to get another Mr. Handy." %}
-{% include emptyline.html %}
-{% include youtube.html id="hxom4L7usNo" %}
-{% include emptyline.html %}
-{% include image.html file="endofdayfour.jpg" alt="endofdayfour" %}
-{% include emptyline.html %}
-{% include paragraph.html par="In the end I didn't get my 5 Dwellers only one but a lot more happened that was still pretty cool. Today I didn't even find an AK, but I gotta say, it was a good day. Huh? Song reference, do you know it?" %}
+{% include paragraph.html par="Our intrepid trio of adventurers are off to find Vaultopolis and any sign of Paula Plumbkin. Upon reaching our destination we are told we are in teh wrong place and should journey up North." %}

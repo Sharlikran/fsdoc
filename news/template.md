@@ -10,4 +10,4 @@ title: Common Outfits
 Contents Not Updated
 
 {% include emptyline.html %}
-{% include navbutton.html anchor="#CommonOutfits" name="Top Of Page" %}
+{% include navbutton.html anchor="news/day-three.html#DayThreeBrightandEarly" name="Top Of Page" %}
