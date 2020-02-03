@@ -30,4 +30,4 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include image.html file="roadtovaultopolis.jpg" alt="dayfivesecondvault" %}
 {% include emptyline.html %}
-{% include paragraph.html par="Our intrepid trio of adventurers are off to find Vaultopolis and any sign of Paula Plumbkin. Upon reaching our destination we are told we are in teh wrong place and should journey up North." %}
+{% include paragraph.html par="Our intrepid trio of adventurers are off to find Vaultopolis and any sign of Paula Plumbkin. Upon reaching our destination we are told we are in the wrong place and should journey up North." %}
