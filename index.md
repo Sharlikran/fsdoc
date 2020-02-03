@@ -34,3 +34,7 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include paragraph.html par="On a final note we are happy to announce that the first of our historical data is available in the Vault Library. Check out the Journey to the Center of Vaultopolis." %}
 {% include navlink.html anchor="Vaultopolis.html#DayTwo" name="Journey to the Center of Vaultopolis" %}
+{% include emptyline.html %}
+{% include image.html file="endofdayfive.jpg" alt="endofdayfive" %}
+{% include emptyline.html %}
+{% include paragraph.html par="At the end of day five, I am two Dwellers from 40 and 7 away from being able to upgrade the Weapons Workshop. Our Radio Station reached a Dweller today and we expect a few more tomorrow." %}
