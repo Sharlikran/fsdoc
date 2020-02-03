@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vault Door
+title: Journey to the Center of Vaultopolis
 ---
 {% include grayheader.html level="2" anchor="JourneytotheCenterofVaultopolis" name="Journey to the Center of Vaultopolis" %}
 {% include emptyline.html %}

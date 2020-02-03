@@ -8,33 +8,20 @@ title: Fallout shelter Wiki
 {% include tocheader.html level="2" link="news/day-two.html#DayTwo" name="Day Two" %}
 {% include tocheader.html level="2" link="news/day-three.html#DayThreeBrightandEarly" name="Day Three Bright and Early" %}
 {% include tocheader.html level="2" link="news/day-four.html#DayFourofftoalatestart" name="Day Four off to a late start" %}
-{% include tocheader.html level="2" link="#AnotherlatestartfordayfiveandasecondVault" name="Another late start for day five and a second Vault" %}
+{% include tocheader.html level="2" link="news/day-five.html#AnotherlatestartfordayfiveandasecondVault" name="Another late start for day five and a second Vault" %}
+
+{% include grayheader.html level="2" anchor="AnotherlatestartfordayfiveandasecondVault" name="Early Start on Day Six" %}
 {% include emptyline.html %}
-{% include grayheader.html level="2" anchor="YoutubePlaylist" name="Youtube Playlist" %}
+{% include image.html file="daysixroughstart.jpg" alt="daysixroughstart" %}
 {% include emptyline.html %}
-{% include playlist.html id="PLy1icqIbVqThNSViN7-zpY5d1bM7Ee2oy" %}
+{% include paragraph.html par="Day six was of to a rough start with sever power outages and food shortage. There was added chaos from Raider invasions which kept haulting food production. They were able to keep things going long enough to get power restored and food for the Swellers. Which was a good thing since there are two new members to the vault young Deborah and Betty." %}
+
 {% include emptyline.html %}
-{% include grayheader.html level="2" anchor="AnotherlatestartfordayfiveandasecondVault" name="Another late start for day five and a second Vault" %}
+{% include image.html file="pulledittogether.jpg" alt="pulledittogether" %}
 {% include emptyline.html %}
-{% include image.html file="dayfivesecondvault.jpg" alt="dayfivesecondvault" %}
+{% include paragraph.html par="Once our energy reserves were restored and more food production was under way we were able to send a few dwellers out into the wasteland in search of mroe guns and outfits." %}
+
 {% include emptyline.html %}
-{% include paragraph.html par="Today we find the very first Vaultec Vault, vault 001. Double-ot One as they call it. In order to properly preserve Historical Data (again Youtube videos) on all the adventures our Dwellers embark upon, a second vault had to be discovered. Once properly recorded the Historical Data can be sorted and added to the Vault library. Hopefully we will have our very own Overseers Office soon." %}
+{% include image.html file="jeffontheroadagain.jpg" alt="jeffontheroadagain" %}
 {% include emptyline.html %}
-{% include image.html file="jeffshouldbebacksoon.jpg" alt="dayfivesecondvault" %}
-{% include emptyline.html %}
-{% include paragraph.html par="Jeff should be back soon. WIth no stimpacks or a gun he did the best he could. He did find a few outfits, an Officers Uniform and some Formal Wear. Once he returns there are some stimpacks waiting and with that and a gun in hand he should be back out to explore the wasteland." %}
-{% include emptyline.html %}
-{% include image.html file="meanwhileinvault111.jpg" alt="dayfivesecondvault" %}
-{% include emptyline.html %}
-{% include paragraph.html par="Meanwhile... Back in Vault 111 training continues for our Dwellers to improve their management of Vault resources. Another mysterious Stranger was captured at the Vault entrance and again only a few hundred caps on him." %}
-{% include emptyline.html %}
-{% include image.html file="roadtovaultopolis.jpg" alt="dayfivesecondvault" %}
-{% include emptyline.html %}
-{% include paragraph.html par="Our intrepid trio of adventurers are off to find Vaultopolis and any sign of Paula Plumbkin. Upon reaching our destination we are told we are in the wrong place and should journey up North." %}
-{% include emptyline.html %}
-{% include paragraph.html par="On a final note we are happy to announce that the first of our historical data is available in the Vault Library. Check out the Journey to the Center of Vaultopolis." %}
-{% include navlink.html anchor="Vaultopolis.html#DayTwo" name="Journey to the Center of Vaultopolis" %}
-{% include emptyline.html %}
-{% include image.html file="endofdayfive.jpg" alt="endofdayfive" %}
-{% include emptyline.html %}
-{% include paragraph.html par="At the end of day five, I am two Dwellers from 40 and 7 away from being able to upgrade the Weapons Workshop. Our Radio Station reached a Dweller today and we expect a few more tomorrow." %}
+{% include paragraph.html par="Jeff answered the call to action and was joined today by Joan. Both equiped with a weapon and stimpacks. Jeff has scored first with a Sawed Off Shotgun." %}

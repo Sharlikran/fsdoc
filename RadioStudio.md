@@ -6,6 +6,8 @@ title: Radio Studio
 {% include emptyline.html %}
 {% include navbutton.html anchor="index.html" name="Main Page" %}
 {% include emptyline.html %}
+{% include image.html file="readistationfounddweller.jpg" alt="readistationfounddweller" %}
+{% include emptyline.html %}
 {% include grayheader.html level="3" anchor="TripleWideRoom" name="Triple Wide Room"%}
 {% include emptyline.html %}
 {% include image.html file="t2images/tripleradiostation.jpg" alt="tripleradiostation" %}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Common Outfits
+title: Starting again on PC
 ---
 {% include grayheader.html level="2" anchor="StartingagainonPC" name="Starting again on PC" %}
 {% include emptyline.html %}

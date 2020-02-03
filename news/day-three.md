@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Common Outfits
+title: Day Three Bright and Early
 ---
 {% include grayheader.html level="2" anchor="DayThreeBrightandEarly" name="Day Three Bright and Early" %}
 {% include emptyline.html %}
