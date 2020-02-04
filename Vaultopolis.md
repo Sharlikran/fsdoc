@@ -14,6 +14,8 @@ A Thirst for Adventure
 {% include emptyline.html %}
 Paula's in a Pickle!
 {% include emptyline.html %}
+{% include youtube.html id="_DAHLamvNHs" %}
+{% include emptyline.html %}
 Into Vault 333!
 {% include emptyline.html %}
 Tankbusting

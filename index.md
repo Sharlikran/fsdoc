@@ -2,6 +2,9 @@
 layout: default
 title: Fallout shelter Wiki
 ---
+{% include grayheader.html level="2" anchor="YoutubePlaylist" name="Historical Data Playlist" %}
+{% include emptyline.html %}
+{% include playlist.html id="PLy1icqIbVqThNSViN7-zpY5d1bM7Ee2oy" %}
 {% include emptyline.html %}
 {% include greenheader.html level="2" anchor="TableOfContents" name="Daily News Update From The Wasteland" %}
 {% include tocheader.html level="2" link="news/day-one.html#StartingagainonPC" name="Starting again on PC" %}
