@@ -13,7 +13,7 @@ title: Another late start for day five and a second Vault
 {% include emptyline.html %}
 {% include image.html file="jeffshouldbebacksoon.jpg" alt="dayfivesecondvault" %}
 {% include emptyline.html %}
-{% include paragraph.html par="Jeff should be back soon. WIth no stimpacks or a gun he did the best he could. He did find a few outfits, an Officers Uniform and some Formal Wear. Once he returns there are some stimpacks waiting and with that and a gun in hand he should be back out to explore the wasteland." %}
+{% include paragraph.html par="Jeff should be back soon. With no stimpacks or a gun he did the best he could. He did find a few outfits, an Officers Uniform and some Formal Wear. Once he returns there are some stimpacks waiting and with that and a gun in hand he should be back out to explore the wasteland." %}
 {% include emptyline.html %}
 {% include image.html file="meanwhileinvault111.jpg" alt="dayfivesecondvault" %}
 {% include emptyline.html %}

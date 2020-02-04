@@ -13,7 +13,7 @@ title: Storage Room
 Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
 1 | Storage Room | | 1500 | 30 | xxx
-2 | Depot | | 4500 | 45 | xxx
+2 | Depot | | 4500 | 45 | 300
 3 | Warehouse | | | 60 | 900
 
 {% include emptyline.html %}
