@@ -54,7 +54,7 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include paragraph.html par="An incomming transmition from vault 001 tells us that Jef came through with several weapons and outfits. Way to go Jeff. It will be Christmas in February." %}
 
-e.html %}
+{% include emptyline.html %}
 {% include image.html file="playingpolitics.jpg" alt="playingpolitics" %}
 {% include emptyline.html %}
 {% include paragraph.html par="This time our trio of adventurers has set out on a one day journey in search of Vault 525 and it may really be Vaultopolis. They will have to search the mayors office for more information." %}
