@@ -37,7 +37,7 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include image.html file="visitingvault96.jpg" alt="visitingvault96" %}
 {% include emptyline.html %}
-{% include paragraph.html par="In addition to Vault 111 and 001, our illustrious Overseer ventured into the Android Quadrant in search of more Historical Data. There our Dwellers found Vault 96. It is a bustling barrack filled with cheerful Dwellers ready to lend a hand. They were interested in contributing to our Vault Library however, they have noticed that the underground cable system is damaged beyond repair. Only still images can be shared across a makeshift transmit ion system. Vault 001 and 111 will be the main source of the contributions to the Library. We wished them a fond farewell and they asked us to visit when we can." %}
+{% include paragraph.html par="In addition to Vault 111 and 001, our illustrious Overseer ventured into the Android Quadrant in search of more Historical Data. There our Dwellers found Vault 96. It is a bustling barrack filled with cheerful Dwellers ready to lend a hand. They were interested in contributing to our Vault Library however, they have noticed that the underground cable system is damaged beyond repair. Only still images can be shared across a makeshift transmission system. Vault 001 and 111 will be the main source of the contributions to the Library. We wished them a fond farewell and they asked us to visit when we can." %}
 
 {% include emptyline.html %}
 {% include image.html file="vault111setouttofind525.jpg" alt="vault111setouttofind525" %}
@@ -52,7 +52,7 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include image.html file="jeffcamethrough.jpg" alt="jeffcamethrough" %}
 {% include emptyline.html %}
-{% include paragraph.html par="An incomming transmition from vault 001 tells us that Jef came through with several weapons and outfits. Way to go Jeff. It will be Christmas in February." %}
+{% include paragraph.html par="An incomming transmission from vault 001 tells us that Jef came through with several weapons and outfits. Way to go Jeff. It will be Christmas in February." %}
 
 {% include emptyline.html %}
 {% include image.html file="playingpolitics.jpg" alt="playingpolitics" %}
