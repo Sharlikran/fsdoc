@@ -6,6 +6,12 @@ title: Overseers Office
 {% include emptyline.html %}
 {% include navbutton.html anchor="index.html" name="Main Page" %}
 {% include emptyline.html %}
+{% include grayheader.html level="3" anchor="GettingStarted" name="Getting Started"%}
+{% include emptyline.html %}
+{% include youtube.html id="7gOZ3hvDXgA" %}
+{% include emptyline.html %}
+{% include paragraph.html par="This will be your first adventure once you build an Overseers Office. The video shows start to finish and how the Dwellers will enter the vault after you click Collect to collect the items they are carrying. Remember to have room in your storage for all the items." %}
+{% include emptyline.html %}
 {% include grayheader.html level="3" anchor="TripleWideRoom" name="Triple Wide Room"%}
 {% include emptyline.html %}
 {% include image.html file="t2images/doubleoverseersoffice.jpg" alt="triplearmory" %}
@@ -24,4 +30,4 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 {% include emptyline.html %}
 {% include note.html note="To Upgrade to tier 3 you will need 55 dwellers." %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="#OverseersOffice" name="Top Of Page" %}
+{% include navbutton.html anchor="OverseersOffice.html#OverseersOffice" name="Top Of Page" %}
