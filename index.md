@@ -20,3 +20,13 @@ title: Fallout shelter Wiki
 {% include image.html file="earlymorningworkout.jpg" alt="earlymorningworkout" %}
 {% include emptyline.html %}
 {% include paragraph.html par="Everyone is up and at it for their early morning workout. Although the people in the Lounge are saying that their head still hurts. They are saying they need a bit of, The Hair of the Dog that bit them. I wonder why. There is a new Dweller at our doorstep so preparations are being made to accommodate him and we hope more will join us from the wasteland today." %}
+
+{% include emptyline.html %}
+{% include image.html file="vault096dayseven.jpg" alt="vault096dayseven" %}
+{% include emptyline.html %}
+{% include paragraph.html par="Vault 096 having discovered an old Enclave server has routed another transmission to us via satellite from the Android Quadrant. Everyone is doing well." %}
+
+{% include emptyline.html %}
+{% include image.html file="vault096returningfromquest.jpg" alt="vault096returningfromquest" %}
+{% include emptyline.html %}
+{% include paragraph.html par="Even a few Brave adventurers headed out in search of the mysterous vault 730." %}
