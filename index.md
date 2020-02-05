@@ -40,3 +40,9 @@ title: Fallout shelter Wiki
 {% include image.html file="dylanmakingtheguns.jpg" alt="dylanmakingtheguns" %}
 {% include emptyline.html %}
 {% include paragraph.html par="Dylan our cheif engineer is making our Dwellers a Guass Rifle. Equiped with enough of these we would be nearly unstopable." %}
+
+{% include emptyline.html %}
+{% include image.html file="t1images/singlegameroom.jpg" alt="singlegameroom" %}
+{% include emptyline.html %}
+{% include paragraph.html par="I think everyone can agree teh new Game Room is a nice addition to the Vault. Everyone is hoping to improve their Lick." %}
+
