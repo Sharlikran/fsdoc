@@ -23,7 +23,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Power Generator | | 375 | 22 | 100 | 40
+1 | Power Generator | | 375 | 22 | 100 | 20
 2 | Power Station | | 1125 | 26 | 150 | 75
 3 | Power Plant | | | 33 | 200 | 225
 
