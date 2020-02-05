@@ -10,13 +10,13 @@ title: Radio Studio
 {% include emptyline.html %}
 {% include grayheader.html level="3" anchor="TripleWideRoom" name="Triple Wide Room"%}
 {% include emptyline.html %}
-{% include image.html file="t2images/tripleradiostation.jpg" alt="tripleradiostation" %}
+{% include image.html file="t3images/tripleradiostation.jpg" alt="tripleradiostation" %}
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Radio Studio | | 3000 | xxx
-2 | Radio Station | | 9000 | xxx
-3 | Broadcast Center | | | xxx
+2 | Radio Station | | 9000 | 900
+3 | Broadcast Center | | | 1800
 
 {% include emptyline.html %}
 {% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
