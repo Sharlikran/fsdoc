@@ -29,4 +29,4 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include image.html file="vault096returningfromquest.jpg" alt="vault096returningfromquest" %}
 {% include emptyline.html %}
-{% include paragraph.html par="Even a few Brave adventurers headed out in search of the mysterous vault 730." %}
+{% include paragraph.html par="Even a few Brave adventurers from Vault 96 headed out in search of the mysterious vault 730." %}
