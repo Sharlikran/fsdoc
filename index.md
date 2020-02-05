@@ -30,3 +30,9 @@ title: Fallout shelter Wiki
 {% include image.html file="vault096returningfromquest.jpg" alt="vault096returningfromquest" %}
 {% include emptyline.html %}
 {% include paragraph.html par="Even a few Brave adventurers from Vault 96 headed out in search of the mysterious vault 730." %}
+
+{% include emptyline.html %}
+{% include image.html file="tripleradiostation.jpg" alt="tripleradiostation" %}
+{% include emptyline.html %}
+{% include paragraph.html par="We now have a fully functional Broadcast Center which should increase our chances of reaching out to Dwellers in the wasteland and bring them hope that there is somewhere warm and safe free from the harsh conditions of the Wasteland." %}
+
