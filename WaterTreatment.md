@@ -23,7 +23,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Water Treatment | | 375 | 18 | 100 | 40
+1 | Water Treatment | | 375 | 18 | 100 | 20
 2 | Water Treatment Station | | 1125 | 22 | 150 | 75
 3 | Water Treatment Plant | | | 26 | 200 | xxx
 
