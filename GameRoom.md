@@ -60,4 +60,4 @@ Skill Value | Game Room | Arcade | Gaming Center
 {% include emptyline.html %}
 {% include note.html note="Plus 150 more caps per room purchaced" %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="#GameRoom" name="Top Of Page" %}
+{% include navbutton.html anchor="GameRoom.html#GameRoom" name="Top Of Page" %}
