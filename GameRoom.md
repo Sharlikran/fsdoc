@@ -30,7 +30,7 @@ Tier | Name | Cost | Upgrade Cost | Destruction Value
 {% include emptyline.html %}
 {% include grayheader.html level="3" anchor="SingleWideRoom" name="Single Wide Room"%}
 {% include emptyline.html %}
-{% include image.html file="t1images/replace-singlegameroom.jpg" alt="replace-singlegameroom" %}
+{% include image.html file="t1images/singlegameroom.jpg" alt="singlegameroom" %}
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------

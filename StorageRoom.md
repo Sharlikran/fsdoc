@@ -42,8 +42,8 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 {% include grayheader.html level="3" anchor="DwellersRequiredToBuild" name="Dwellers Required To Build"%}
 {% include emptyline.html %}
 {% include image.html file="reqstorageroom.jpg" alt="reqstorageroom" %}
-{% include emptyline.html %}
 
+{% include emptyline.html %}
 {% include note.html note="Plus 75 more caps per room purchaced" %}
 {% include emptyline.html %}
 {% include note.html note="With 1 Triple Wide room the next room wouold be 525. The next 600." %}

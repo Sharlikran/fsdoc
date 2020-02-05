@@ -36,3 +36,7 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include paragraph.html par="We now have a fully functional Broadcast Center which should increase our chances of reaching out to Dwellers in the wasteland and bring them hope that there is somewhere warm and safe that can go to and escape the harsh conditions of the Wasteland." %}
 
+{% include emptyline.html %}
+{% include image.html file="dylanmakingtheguns.jpg" alt="dylanmakingtheguns" %}
+{% include emptyline.html %}
+{% include paragraph.html par="Dylan our cheif engineer is making our Dwellers a Guass Rifle. Equiped with enough of these we would be nearly unstopable." %}
