@@ -12,9 +12,9 @@ title: Power Generator
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Power Generator | | 500 | 34 | 150 | 60
-2 | Power Station | | 1500 | 40 | 225 | 100
-3 | Power Plant | | | 49 | 300 | 300
+1 | Power Generator | | 500 | 44 | 150 | 60
+2 | Power Station | | 1500 | 52 | 225 | 100
+3 | Power Plant | | | 66 | 300 | 300
 
 {% include emptyline.html %}
 {% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
