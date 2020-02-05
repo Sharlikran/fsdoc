@@ -23,7 +23,7 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
-1 | Storage Room | | 1125 | 20 | 120
+1 | Storage Room | | 1125 | 30 | 60
 2 | Depot | | 3375 | 30 | 225
 3 | Warehouse | |  | 40 | 675
 
