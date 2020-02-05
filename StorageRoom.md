@@ -34,18 +34,9 @@ Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Storage | Destruction Value
 ------|------|------|------|------|------
-1 | Storage Room | 300 | 750 | 10 | 60
+1 | Storage Room | 300 | 750 | 20 | 60
 2 | Depot | | 2250 | 15 | 150
 3 | Warehouse | | | 20 | xxx
-
-{% include emptyline.html %}
-{% include grayheader.html level="3" anchor="Capacity" name="Capacity"%}
-{% include emptyline.html %}
-Room Size | Teir 1 | Teir 2 | Teir 3
-------|------|------|------
-Single Wide | 10 | +5 | +10
-Double Wide | 20 | +15 | +20
-Triple Wide |	30 | +45 | +50
 
 {% include emptyline.html %}
 {% include grayheader.html level="3" anchor="DwellersRequiredToBuild" name="Dwellers Required To Build"%}

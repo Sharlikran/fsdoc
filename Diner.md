@@ -23,7 +23,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Diner | | 375 | 18 | 100 | 40
+1 | Diner | | 375 | 18 | 100 | 20
 2 | Restaurant | | 1125 | 22 | 150 | 75
 3 | Cafeteria | | | 26 | 200 | 225
 
@@ -37,22 +37,6 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 1 | Diner | 100 | 250 | 8 | 50 | 20
 2 | Restaurant | | 750 | 10 | 75 | 50
 3 | Cafeteria | | | 12 | 100 | xxx
-
-{% include emptyline.html %}
-{% include grayheader.html level="3" anchor="FoodProductiuon" name="Food Productiuon"%}
-{% include emptyline.html %}
-Room Size | Teir 1 | Teir 2 | Teir 3
-Single Wide | 8 | +2 | +2
-Double Wide | 18 | +4 | +4
-Triple Wide | 28 | +6 | +6
-
-{% include emptyline.html %}
-{% include grayheader.html level="3" anchor="FoodStorage" name="Food Storage"%}
-{% include emptyline.html %}
-Room Size | Teir 1 | Teir 2 | Teir 3
-Single Wide | 50 | +25 | +25
-Double Wide | 100 | +50 | +50
-Triple Wide | 150 | +75 | +75 
 
 {% include emptyline.html %}
 {% include note.html note="Each additional Room is 25 Caps." %}
