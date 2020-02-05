@@ -13,36 +13,31 @@ title: Fallout shelter Wiki
 {% include tocheader.html level="2" link="news/day-four.html#DayFourofftoalatestart" name="Day Four off to a late start" %}
 {% include tocheader.html level="2" link="news/day-five.html#AnotherlatestartfordayfiveandasecondVault" name="Another late start for day five and a second Vault" %}
 {% include tocheader.html level="2" link="news/day-six.html#EarlyStartonDaySix" name="Early Start on Day Six" %}
+{% include tocheader.html level="2" link="news/day-seven.html#DaySevenBegins" name="Day Seven Begins" %}
 
 {% include emptyline.html %}
-{% include grayheader.html level="2" anchor="DaySevenBegins" name="Day Seven Begins" %}
+{% include grayheader.html level="2" anchor="TheEighthDay" name="The Eighth Day" %}
 {% include emptyline.html %}
-{% include image.html file="earlymorningworkout.jpg" alt="earlymorningworkout" %}
+{% include image.html file="vault96dayeight.jpg" alt="vault96dayeight" %}
 {% include emptyline.html %}
-{% include paragraph.html par="Everyone is up and at it for their early morning workout. Although the people in the Lounge are saying that their head still hurts. They are saying they need a bit of, The Hair of the Dog that bit them. I wonder why. There is a new Dweller at our doorstep so preparations are being made to accommodate him and we hope more will join us from the wasteland today." %}
+{% include paragraph.html par="The Eighth Day is off to a good start with everyone getting up to face the the wasteland. From our Android Quadrant Vault 96 welcomes another Jeff to the vault and he will be helping out in the Dinner." %}
 
 {% include emptyline.html %}
-{% include image.html file="vault096dayseven.jpg" alt="vault096dayseven" %}
+{% include image.html file="dayeightvault001.jpg" alt="dayeightvault001" %}
 {% include emptyline.html %}
-{% include paragraph.html par="Vault 096 having discovered an old Enclave server has routed another transmission to us via satellite from the Android Quadrant. Everyone is doing well." %}
+{% include paragraph.html par="Vault Double-ot One is awaiting their next arrival from the wasteland in hopes of rescuing more Dwellers from the wasteland." %}
 
 {% include emptyline.html %}
-{% include image.html file="vault096returningfromquest.jpg" alt="vault096returningfromquest" %}
+{% include image.html file="vault737experment.jpg" alt="vault737experment" %}
 {% include emptyline.html %}
-{% include paragraph.html par="Even a few Brave adventurers from Vault 96 headed out in search of the mysterious vault 730." %}
+{% include paragraph.html par="We recently discovered a testing facility for Vault-Tec, It was to ensure that all data was accurate even when other vaults may have changed over the years. It doesn't look like all the rooms work together very well but it should provide us with new data for vault specifications." %}
 
 {% include emptyline.html %}
-{% include image.html file="t3images/tripleradiostation.jpg" alt="tripleradiostation" %}
+{% include image.html file="vault737experment.jpg" alt="vault737experment" %}
 {% include emptyline.html %}
-{% include paragraph.html par="We now have a fully functional Broadcast Center which should increase our chances of reaching out to Dwellers in the wasteland and bring them hope that there is somewhere warm and safe that can go to and escape the harsh conditions of the Wasteland." %}
+{% include paragraph.html par="In Vault 111 our main vault is up and at em with more training and exercise for improving resource management as the population grows in the vault." %}
 
 {% include emptyline.html %}
-{% include image.html file="dylanmakingtheguns.jpg" alt="dylanmakingtheguns" %}
+{% include image.html file="barbershopfox.jpg" alt="barbershopfox" %}
 {% include emptyline.html %}
-{% include paragraph.html par="Dylan our cheif engineer is making our Dwellers a Guass Rifle. Equiped with enough of these we would be nearly unstopable." %}
-
-{% include emptyline.html %}
-{% include image.html file="t1images/singlegameroom.jpg" alt="singlegameroom" %}
-{% include emptyline.html %}
-{% include paragraph.html par="I think everyone can agree teh new Game Room is a nice addition to the Vault. Everyone is hoping to improve their Lick." %}
-
+{% include paragraph.html par="Howard, already a Fox in the eyes of the ladies, is in the mood for a new hair Style in our latest addition to the Vault, our Barbershop!" %}
