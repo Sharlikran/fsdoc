@@ -12,7 +12,7 @@ title: Science Lab
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Science Lab | | 2000 | 4 | 30 | xxx
+1 | Science Lab | | 2000 | 4 | 35 | 80
 2 | Science Station | | 6000 | 8 | 30 | 400
 3 | Science Center | | | 12 | 30 | 1200
 
@@ -37,23 +37,6 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 1 | Science Lab | 400 | 1000 | 1 | 10 | 80
 2 | Science Station | | 3000 | 2 | 10 | xxx
 3 | Science Center | | | 3 | 10 | xxx
-
-{% include emptyline.html %}
-{% include grayheader.html level="3" anchor="RadAwayProduction" name="RadAway Production"%}
-{% include emptyline.html %}
-Room Size | Teir 1 | Teir 2 | Teir 3
-Single Wide | 1 | +1 | +1
-Double Wide | 3 | +3 | +3
-Triple Wide | 4  | +4 | +4
-
-{% include emptyline.html %}
-{% include grayheader.html level="3" anchor="RadAwayStorage" name="RadAway Storage"%}
-{% include emptyline.html %}
-Room Size | Teir 1 | Teir 2 | Teir 3
-Single Wide | 10 | |
-Double Wide | 20 | |
-Triple Wide | 30 | |
-
 
 {% include emptyline.html %}
 {% include note.html note="Plus 100 for each additional elevator." %}

@@ -12,7 +12,7 @@ title: Medbay
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Medbay | | 2000 | 4 | 30 | xxx
+1 | Medbay | | 2000 | 4 | 30 | 80
 2 | Clinic | | 6000 | 8 | 30 | 400
 3 | Hospital | | | 12 | 30 | 1200
 
@@ -38,22 +38,6 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 1 | Medbay | 400 | 1000 | 1 | 10 | 80
 2 | Clinic | | 3000 | 2 | 10 | 200
 3 | Hospital | | | 3 | 10 | xxx
-
-{% include emptyline.html %}
-{% include grayheader.html level="3" anchor="StimpakProduction" name="Stimpak Production"%}
-{% include emptyline.html %}
-Room Size | Teir 1 | Teir 2 | Teir 3
-Single Wide | 1 | +1 | +1
-Double Wide | 3 | +3 | +3
-Triple Wide | 4  | +4 | +4
-
-{% include emptyline.html %}
-{% include grayheader.html level="3" anchor="StimpakStorage" name="Stimpak Storage"%}
-{% include emptyline.html %}
-Room Size | Teir 1 | Teir 2 | Teir 3
-Single Wide | 10 | |
-Double Wide | 20 | |
-Triple Wide | 30 | |
 
 {% include emptyline.html %}
 {% include note.html note="Plus 100 for each additional elevator." %}
