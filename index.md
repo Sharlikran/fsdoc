@@ -50,7 +50,7 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include image.html file="ourfirstradscorpion.jpg" alt="ourfirstradscorpion" %}
 {% include emptyline.html %}
-{% include paragraph.html par="We had our first of most likely man Radscorpion invasions today but our dwellers being better equiped with guns and outfits were up to the task. Victory was ours!" %}
+{% include paragraph.html par="We had our first of most likely many Radscorpion invasions today but our dwellers being better equiped with guns and outfits were up to the task. Victory was ours!" %}
 
 {% include emptyline.html %}
 {% include image.html file="minutesawayfrom65dwellers.jpg" alt="minutesawayfrom65dwellers" %}
