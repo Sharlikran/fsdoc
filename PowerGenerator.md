@@ -25,7 +25,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Power Generator | | 375 | 21 | 100 | 20
 2 | Power Station | | 1125 | 25 | 150 | 75
-3 | Power Plant | | | 33 | 200 | 225
+3 | Power Plant | | | 31 | 200 | 225
 
 
 {% include emptyline.html %}
@@ -37,7 +37,7 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Power Generator | 100 | 250 | 10 | 50 | 20
 2 | Power Station | | 750 | 12 | 75 | 50
-3 | Power Plant | | | 15 | 100 | xxx
+3 | Power Plant | | | 15 | 100 | 150
 
 {% include emptyline.html %}
 {% include note.html note="Plus 25 more caps per room purchaced" %}
