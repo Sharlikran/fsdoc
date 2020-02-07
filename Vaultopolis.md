@@ -8,6 +8,8 @@ title: Journey to the Center of Vaultopolis
 {% include emptyline.html %}
 The Path of Paula Plumbkin
 {% include emptyline.html %}
+{% include youtube.html id="cwHDJttuTwQ" %}
+{% include emptyline.html %}
 A Thirst for Adventure
 {% include emptyline.html %}
 {% include youtube.html id="YtyM_hwezPM" %}
@@ -18,7 +20,11 @@ Paula's in a Pickle!
 {% include emptyline.html %}
 Into Vault 333!
 {% include emptyline.html %}
+{% include youtube.html id="KPSpSiMxej0" %}
+{% include emptyline.html %}
 Tankbusting
+{% include emptyline.html %}
+{% include youtube.html id="ue3-PMwaokQ" %}
 {% include emptyline.html %}
 Return to Vault 333
 {% include emptyline.html %}
