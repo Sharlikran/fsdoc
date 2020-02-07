@@ -13,7 +13,7 @@ title: Weapons Workshop
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
 1 | Weapons Workshop | 800 [2] | 8,000 [1] | 160
-2 | Weapon Factory | | | 1600
+2 | Weapon Factory | | 60,000 [1] | 1600
 3 | Weapon Plant | | | xxx
 
 {% include emptyline.html %}
