@@ -4,7 +4,7 @@ title: Starting again on PC
 ---
 {% include grayheader.html level="2" anchor="StartingagainonPC" name="Starting again on PC" %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include navbutton.html anchor="newsfromvault.html" name="News From The Vault" %}
 {% include emptyline.html %}
 
 {% include image.html file="beginingagain.jpg" alt="beginingagain" %}

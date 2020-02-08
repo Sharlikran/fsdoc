@@ -4,7 +4,7 @@ title: Another late start for day five and a second Vault
 ---
 {% include grayheader.html level="2" anchor="AnotherlatestartfordayfiveandasecondVault" name="Another late start for day five and a second Vault" %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include navbutton.html anchor="newsfromvault.html" name="News From The Vault" %}
 {% include emptyline.html %}
 
 {% include image.html file="dayfivesecondvault.jpg" alt="dayfivesecondvault" %}

@@ -4,7 +4,7 @@ title: Early Start on Day Six
 ---
 {% include grayheader.html level="2" anchor="EarlyStartonDaySix" name="Early Start on Day Six" %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include navbutton.html anchor="newsfromvault.html" name="News From The Vault" %}
 {% include emptyline.html %}
 
 {% include image.html file="daysixroughstart.jpg" alt="daysixroughstart" %}

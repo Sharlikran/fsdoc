@@ -4,7 +4,7 @@ title: Day Four off to a late start
 ---
 {% include grayheader.html level="2" anchor="DayFourofftoalatestart" name="Day Four off to a late start" %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include navbutton.html anchor="newsfromvault.html" name="News From The Vault" %}
 {% include emptyline.html %}
 {% include paragraph.html par="Spent most of my day editing the xEdit docs so just now starting to play. Went on a quest to find Paula Plumbkin. Now if I could just get 5 more dwellers today I'd be happy but I don't think that will happen without breeding them and I'm not sure I want to do that." %}
 {% include emptyline.html %}

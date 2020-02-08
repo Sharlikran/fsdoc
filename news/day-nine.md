@@ -4,7 +4,7 @@ title: Common Outfits
 ---
 {% include grayheader.html level="2" anchor="NeinImeanyeserDayNine" name="Nein, I mean yes, er Day Nine" %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include navbutton.html anchor="newsfromvault.html" name="News From The Vault" %}
 {% include emptyline.html %}
 
 {% include image.html file="vaultopolisherewecome.jpg" alt="vaultopolisherewecome" %}
@@ -29,4 +29,4 @@ title: Common Outfits
 {% include paragraph.html par="Our expansion for today has us with two new Nuclear Reactors, a new Science Lab for more Rad Away, and two new Gardens for some even more delicious food stright, well, from the Garden!" %}
 
 {% include emptyline.html %}
-{% include navbutton.html anchor="news/day-eight.html#TheEighthDay" name="Top Of Page" %}
+{% include navbutton.html anchor="news/day-nine.html#NeinImeanyeserDayNine" name="Top Of Page" %}

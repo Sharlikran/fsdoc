@@ -4,7 +4,7 @@ title: Day Two
 ---
 {% include grayheader.html level="2" anchor="DayTwo" name="Day Two" %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include navbutton.html anchor="newsfromvault.html" name="News From The Vault" %}
 {% include emptyline.html %}
 
 {% include image.html file="daytwocommingalong.jpg" alt="daytwocommingalong" %}
@@ -20,4 +20,4 @@ title: Day Two
 {% include paragraph.html par="The main reason for all the training is because if they are not happy and in the correct room then they don't level up. I have a few Dwellers that are around level 4 and one of them is still level 1. So I need to get them with an appropriate Special stat and room to increase their level." %}
 
 {% include emptyline.html %}
-{% include navbutton.html anchor="news/day-two.html#JourneytotheCenterofVaultopolis" name="Journey to the Center of Vaultopolis" %}
+{% include navbutton.html anchor="news/day-two.html#DayTwo" name="Top Of Page" %}

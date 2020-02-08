@@ -4,7 +4,7 @@ title: Day Three Bright and Early
 ---
 {% include grayheader.html level="2" anchor="DayThreeBrightandEarly" name="Day Three Bright and Early" %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include navbutton.html anchor="newsfromvault.html" name="News From The Vault" %}
 {% include emptyline.html %}
 
 {% include image.html file="daythreequesting.jpg" alt="daythreequesting" %}

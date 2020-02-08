@@ -4,7 +4,7 @@ title: Common Outfits
 ---
 {% include grayheader.html level="2" anchor="DaySevenBegins" name="Day Seven Begins" %}
 {% include emptyline.html %}
-{% include navbutton.html anchor="index.html" name="Main Page" %}
+{% include navbutton.html anchor="newsfromvault.html" name="News From The Vault" %}
 {% include emptyline.html %}
 
 {% include image.html file="earlymorningworkout.jpg" alt="earlymorningworkout" %}
