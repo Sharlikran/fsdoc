@@ -13,8 +13,8 @@ title: Science Lab
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
 1 | Science Lab | | 2000 | 4 | 35 | 80
-2 | Science Station | | 6000 | 8 | 30 | 400
-3 | Science Center | | | 12 | 30 | 1200
+2 | Science Station | | 6000 | 8 | 35 | 400
+3 | Science Center | | | 12 | 35 | 1200
 
 {% include emptyline.html %}
 {% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
@@ -23,9 +23,9 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Science Lab | | 1500 | 3 | 20 | xxx
-2 | Science Station | | 4500 | 6 | 20 | 300
-3 | Science Center | | | 9 | 20 | xxx
+1 | Science Lab | | 1500 | 3 | 25 | xxx
+2 | Science Station | | 4500 | 6 | 25 | 300
+3 | Science Center | | | 9 | 25 | xxx
 
 {% include emptyline.html %}
 {% include grayheader.html level="3" anchor="SingleWideRoom" name="Single Wide Room"%}
@@ -34,9 +34,9 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Science Lab | 400 | 1000 | 1 | 10 | 80
-2 | Science Station | | 3000 | 2 | 10 | xxx
-3 | Science Center | | | 3 | 10 | xxx
+1 | Science Lab | 400 | 1000 | 1 | 15 | 80
+2 | Science Station | | 3000 | 2 | 15 | xxx
+3 | Science Center | | | 3 | 15 | xxx
 
 {% include emptyline.html %}
 {% include note.html note="Plus 100 for each additional elevator." %}

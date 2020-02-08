@@ -12,9 +12,9 @@ title: Medbay
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Medbay | | 2000 | 4 | 30 | 80
-2 | Clinic | | 6000 | 8 | 30 | 400
-3 | Hospital | | | 12 | 30 | 1200
+1 | Medbay | | 2000 | 4 | 35 | 80
+2 | Clinic | | 6000 | 8 | 35 | 400
+3 | Hospital | | | 12 | 35 | 1200
 
 {% include emptyline.html %}
 {% include grayheader.html level="3" anchor="DoubleWideRoom" name="Double Wide Room"%}
@@ -23,7 +23,7 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Medbay | | 1500 | 3 | 20 | xxx
+1 | Medbay | | 1500 | 3 | 25 | xxx
 2 | Clinic | | 4500 | 6 | 25 | 300
 3 | Hospital | | | 9 | 25 | 900
 
@@ -35,9 +35,9 @@ Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction V
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Stimpacks Produced | Storage | Destruction Value
 ------|------|------|------|------|------|------
-1 | Medbay | 400 | 1000 | 1 | 10 | 80
-2 | Clinic | | 3000 | 2 | 10 | 200
-3 | Hospital | | | 3 | 10 | xxx
+1 | Medbay | 400 | 1000 | 1 | 15 | 80
+2 | Clinic | | 3000 | 2 | 15 | 200
+3 | Hospital | | | 3 | 15 | xxx
 
 {% include emptyline.html %}
 {% include note.html note="Plus 100 for each additional elevator." %}
