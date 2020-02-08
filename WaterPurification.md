@@ -39,22 +39,6 @@ Tier | Name | Cost | Upgrade Cost | Production | Storage | Destruction Value
 3 | Purification Plant | | | xxx | xxx | xxx
 
 {% include emptyline.html %}
-{% include grayheader.html level="3" anchor="WaterProduction" name="Water Production"%}
-{% include emptyline.html %}
-Room Size | Teir 1 | Teir 2 | Teir 3    
-Single Wide | 10 | +2 | +3
-Double Wide | 22 | +5 | +6
-Triple Wide | 35 | +11 | +9
-
-{% include emptyline.html %}
-{% include grayheader.html level="3" anchor="WaterStorage" name="Water Storage"%}
-{% include emptyline.html %}
-Room Size | Teir 1 | Teir 2 | Teir 3
-Single Wide | 50 | +25 | +25
-Double Wide | 100 | +50 | +50
-Triple Wide | 150 | +75 | +75 
-
-{% include emptyline.html %}
 {% include note.html note="Plus 300 more caps per room purchaced" %}
 {% include emptyline.html %}
 {% include navbutton.html anchor="#WaterPurification" name="Top Of Page" %}
