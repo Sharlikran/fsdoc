@@ -13,6 +13,7 @@ title: Fallout shelter Wiki
 {% include tocheader.html level="2" link="news/day-eight.html#TheEighthDay" name="The Eighth Day" %}
 {% include tocheader.html level="2" link="news/day-nine.html#NeinImeanyeserDayNine" name="Nein, I mean yes, er Day Nine" %}
 {% include tocheader.html level="2" link="news/day-ten.html#Onthetenthday" name="On the tenth day..." %}
+{% include tocheader.html level="2" link="news/day-eleven.html#DayEleven" name="It's Day Eleven!" %}
 
 {% include emptyline.html %}
 {% include navbutton.html anchor="newsfromvault.html#NewsFromTheVault" name="Top Of Page" %}
