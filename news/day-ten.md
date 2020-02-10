@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Common Outfits
+title: On the tenth day...
 ---
 {% include grayheader.html level="2" anchor="Onthetenthday" name="On the tenth day..." %}
 {% include emptyline.html %}

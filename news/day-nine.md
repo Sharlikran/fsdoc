@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Common Outfits
+title: Nein, I mean yes, er Day Nine
 ---
 {% include grayheader.html level="2" anchor="NeinImeanyeserDayNine" name="Nein, I mean yes, er Day Nine" %}
 {% include emptyline.html %}
