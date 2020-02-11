@@ -8,7 +8,7 @@ title: Weapons Workshop
 {% include emptyline.html %}
 {% include grayheader.html level="3" anchor="TripleWideRoom" name="Triple Wide Room"%}
 {% include emptyline.html %}
-{% include image.html file="t2images/trippleweaponsroom.jpg" alt="trippleweaponsroom" %}
+{% include image.html file="t3images/tripleweaponsroom.jpg" alt="tripleweaponsroom" %}
 {% include emptyline.html %}
 Tier | Name | Cost | Upgrade Cost | Destruction Value
 ------|------|------|------|------|------
