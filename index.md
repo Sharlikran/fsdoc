@@ -16,5 +16,10 @@ title: Fallout shelter Wiki
 {% include paragraph.html par="Day Thirteen might be lucky for Kevin Costner sporting his new threads. Even Karen Gillan has found her way to the vault after a long day playing Jumanji!" %}
 
 {% include emptyline.html %}
+{% include image.html file="NukaColaBottler.jpg" alt="NukaColaBottler" %}
+{% include emptyline.html %}
+{% include paragraph.html par="Our first Nuka Cola Bottler! Now we can really expand out food and water production!" %}
+
+{% include emptyline.html %}
 {% include navbutton.html anchor="index.html#LuckyThirteen" name="Top Of Page" %}
 
