@@ -13,7 +13,7 @@ title: Fallout shelter Wiki
 {% include emptyline.html %}
 {% include image.html file="karenishere.jpg" alt="kevincostner" %}
 {% include emptyline.html %}
-{% include paragraph.html par="Day Thirteen might be lucky for Kevin Costner sporting his new threads and that poodle. Could that poodle be any cuter? Even Karen Gillan has found her way to the vault after a long day playing Jumanji!" %}
+{% include paragraph.html par="Day Thirteen might be lucky for Kevin Costner sporting his new threads. Even Karen Gillan has found her way to the vault after a long day playing Jumanji!" %}
 
 {% include emptyline.html %}
 {% include navbutton.html anchor="index.html#LuckyThirteen" name="Top Of Page" %}
