@@ -15,6 +15,7 @@ title: Fallout shelter Wiki
 {% include tocheader.html level="2" link="news/day-ten.html#Onthetenthday" name="On the tenth day..." %}
 {% include tocheader.html level="2" link="news/day-eleven.html#DayEleven" name="It's Day Eleven!" %}
 {% include tocheader.html level="2" link="news/day-twelve.html#Daytwelveishere" name="Day twelve is here!" %}
+{% include tocheader.html level="2" link="news/day-thirteen.html#LuckyThirteen" name="Lucky Thirteen!" %}
 
 {% include emptyline.html %}
 {% include navbutton.html anchor="newsfromvault.html#NewsFromTheVault" name="Top Of Page" %}
